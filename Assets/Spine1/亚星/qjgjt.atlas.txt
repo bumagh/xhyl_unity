@@ -1,0 +1,20 @@
+
+qjgjt.png
+size: 456,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_001
+  rotate: false
+  xy: 290, 2
+  size: 162, 156
+  orig: 173, 156
+  offset: 0, 0
+  index: -1
+yaxing_logo
+  rotate: false
+  xy: 2, 8
+  size: 286, 150
+  orig: 300, 150
+  offset: 7, 0
+  index: -1

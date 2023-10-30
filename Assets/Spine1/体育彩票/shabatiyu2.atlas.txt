@@ -1,0 +1,13 @@
+
+shabatiyu2.png
+size: 416,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saba_logo_skype
+  rotate: false
+  xy: 2, 2
+  size: 411, 412
+  orig: 417, 418
+  offset: 1, 2
+  index: -1

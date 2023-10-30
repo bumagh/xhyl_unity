@@ -1,0 +1,1 @@
+public delegate void BCBM_MessageBoxCallback2(BCBM_MessageBoxResult _resualtStyle);

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1bb82ca490884f81b4d021c2db1864fe
+timeCreated: 1690386864
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "\u6C49\u4EEA\u79C0\u82F1\u4F53\u7B80_0"
+  fontNames:
+  - HYXiuYingJ
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

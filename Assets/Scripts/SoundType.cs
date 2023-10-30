@@ -1,0 +1,27 @@
+public enum SoundType
+{
+	None,
+	BG_First,
+	BG_Second,
+	BG_Third,
+	BG_Four,
+	BG_Random,
+	Common_Click,
+	Alert_Hint,
+	Click_PlusMinus,
+	Mail_Delete,
+	Mail_Read,
+	Mail_Receive,
+	Mail_Select,
+	GoldCoin_Gain,
+	Login,
+	BindPhone,
+	Share,
+	Mail,
+	Activity,
+	Rank,
+	Safebox,
+	Exchange,
+	Recharge,
+	Copy
+}

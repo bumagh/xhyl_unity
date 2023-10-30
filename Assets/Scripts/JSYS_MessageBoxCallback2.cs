@@ -1,0 +1,1 @@
+public delegate void JSYS_MessageBoxCallback2(JSYS_MessageBoxResult _resualtStyle);

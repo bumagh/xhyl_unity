@@ -1,0 +1,64 @@
+{
+"skeleton": {
+	"hash": "apvtACNfXb1Y/wPn2xEyHcDO+8M",
+	"spine": "3.8.83",
+	"x": -265.62,
+	"y": -214.08,
+	"width": 485.35,
+	"height": 540.54,
+	"images": "./iamges/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 21.89, "y": -104.12, "scaleX": 2.1, "scaleY": 2.1 },
+	{ "name": "bone2", "parent": "root", "x": -140.18, "y": -58.8, "scaleX": 0.9, "scaleY": 0.9 }
+],
+"slots": [
+	{ "name": "img_003", "bone": "bone", "attachment": "img_003" },
+	{ "name": "yaxing_logo", "bone": "bone2", "attachment": "yaxing_logo" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"img_003": {
+				"img_003": { "x": -3.29, "y": 76.34, "scaleX": 1.3, "scaleY": 1.3, "width": 150, "height": 198 }
+			},
+			"yaxing_logo": {
+				"yaxing_logo": { "x": 10.63, "width": 300, "height": 150 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "y": 24.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "angle": 0.8 },
+					{ "time": 0.0667, "angle": 2.4 },
+					{ "time": 0.1667, "curve": "stepped" },
+					{ "time": 1.7333 },
+					{ "time": 1.8667, "angle": 3.5 },
+					{ "time": 1.9667 },
+					{ "time": 2, "angle": 0.8 }
+				],
+				"scale": [
+					{ "x": 0.989, "y": 0.989, "curve": 0.371, "c2": 0.62, "c3": 0.71 },
+					{ "time": 0.1667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1667, "x": 0.889, "y": 0.889, "curve": 0.243, "c3": 0.689, "c4": 0.75 },
+					{ "time": 2, "x": 0.989, "y": 0.989 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,111 @@
+
+likui.png
+size: 336,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dsh/img_sg01
+  rotate: false
+  xy: 281, 33
+  size: 33, 16
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+dsh/img_sg02
+  rotate: true
+  xy: 274, 112
+  size: 37, 20
+  orig: 68, 28
+  offset: 8, 0
+  index: -1
+dsh/img_sg03
+  rotate: true
+  xy: 307, 151
+  size: 32, 20
+  orig: 68, 28
+  offset: 23, 1
+  index: -1
+dsh/img_sg04
+  rotate: true
+  xy: 281, 51
+  size: 29, 24
+  orig: 68, 28
+  offset: 32, 3
+  index: -1
+dsh/img_sg05
+  rotate: false
+  xy: 281, 9
+  size: 29, 22
+  orig: 68, 28
+  offset: 37, 6
+  index: -1
+dsh/img_sg06
+  rotate: true
+  xy: 307, 64
+  size: 29, 16
+  orig: 68, 28
+  offset: 39, 12
+  index: -1
+dsh/img_sg1
+  rotate: true
+  xy: 307, 95
+  size: 22, 20
+  orig: 69, 60
+  offset: 0, 21
+  index: -1
+dsh/img_sg2
+  rotate: false
+  xy: 312, 7
+  size: 22, 24
+  orig: 69, 60
+  offset: 0, 14
+  index: -1
+dsh/img_sg3
+  rotate: true
+  xy: 274, 82
+  size: 28, 31
+  orig: 69, 60
+  offset: 0, 7
+  index: -1
+dsh/img_sg4
+  rotate: true
+  xy: 274, 151
+  size: 32, 31
+  orig: 69, 60
+  offset: 3, 2
+  index: -1
+dsh/img_sg5
+  rotate: true
+  xy: 296, 119
+  size: 30, 34
+  orig: 69, 60
+  offset: 9, 0
+  index: -1
+dsh/img_sg6
+  rotate: true
+  xy: 316, 40
+  size: 22, 17
+  orig: 69, 60
+  offset: 24, 0
+  index: -1
+img_dhlk1
+  rotate: true
+  xy: 2, 10
+  size: 173, 180
+  orig: 174, 182
+  offset: 1, 2
+  index: -1
+img_dhlk2
+  rotate: false
+  xy: 184, 2
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+img_dhlk3
+  rotate: true
+  xy: 184, 81
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1

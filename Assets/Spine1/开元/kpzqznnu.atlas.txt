@@ -1,0 +1,20 @@
+
+kpzqznnu.png
+size: 300,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-890
+  rotate: true
+  xy: 2, 2
+  size: 154, 228
+  orig: 154, 236
+  offset: 0, 4
+  index: -1
+lhh
+  rotate: true
+  xy: 232, 75
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+shuiguoji.png
+size: 128,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dtsgj01
+  rotate: true
+  xy: 2, 2
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+img_dtsgj02
+  rotate: false
+  xy: 74, 18
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+img_dtsgj03
+  rotate: true
+  xy: 2, 75
+  size: 98, 115
+  orig: 98, 116
+  offset: 0, 1
+  index: -1

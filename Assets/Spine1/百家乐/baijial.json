@@ -1,0 +1,42 @@
+{
+"skeleton": {
+	"hash": "Zd46cIFD0azBs3Ipm6L8VAzVeOs",
+	"spine": "3.8.83",
+	"x": -63.5,
+	"y": -106,
+	"width": 127,
+	"height": 212,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 50.02, "rotation": 90, "x": -13.47, "y": -59.99 }
+],
+"slots": [
+	{ "name": "baijiale_girl_icon", "bone": "bone", "attachment": "baijiale_girl_icon" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"baijiale_girl_icon": {
+				"baijiale_girl_icon": { "x": 59.99, "y": -13.47, "rotation": -90, "width": 127, "height": 212 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "y": 11.21, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			}
+		}
+	}
+}
+}

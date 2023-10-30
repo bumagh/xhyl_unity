@@ -1,0 +1,20 @@
+
+yxnn.png
+size: 504,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dn_2-01
+  rotate: true
+  xy: 290, 2
+  size: 150, 212
+  orig: 150, 213
+  offset: 0, 1
+  index: -1
+yaxing_logo
+  rotate: false
+  xy: 2, 2
+  size: 286, 150
+  orig: 300, 150
+  offset: 7, 0
+  index: -1

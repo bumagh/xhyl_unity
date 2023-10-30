@@ -1,0 +1,86 @@
+{
+"skeleton": {
+	"hash": "I5uVRrPVmh8jNqVZiyUbQ48B7/0",
+	"spine": "3.8.83",
+	"x": -254.17,
+	"y": -167.79,
+	"width": 468.61,
+	"height": 378,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -41.2, "y": -105.95 },
+	{ "name": "bone2", "parent": "root", "x": -157.56, "y": -85.49 },
+	{ "name": "bone3", "parent": "root", "length": 45.39, "rotation": 90, "x": 116.29, "y": 42.34 }
+],
+"slots": [
+	{ "name": "img_002", "bone": "bone", "attachment": "img_002" },
+	{ "name": "box1", "bone": "bone2", "attachment": "box1" },
+	{ "name": "CQ9_Icon", "bone": "bone2", "attachment": "CQ9_Icon" },
+	{ "name": "CQ9_Icon2", "bone": "bone3", "attachment": "CQ9_Icon" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"CQ9_Icon": {
+				"CQ9_Icon": { "x": 2.67, "y": -10.7, "scaleX": 1.3, "scaleY": 1.3, "width": 100, "height": 100 }
+			},
+			"CQ9_Icon2": {
+				"CQ9_Icon": {
+					"x": 20.08,
+					"y": 1.85,
+					"scaleX": 2,
+					"scaleY": 2,
+					"rotation": -90,
+					"width": 100,
+					"height": 100
+				}
+			},
+			"box1": {
+				"box1": { "x": -0.11, "y": -2.46, "scaleX": 0.5, "scaleY": 0.5, "width": 386, "height": 164 }
+			},
+			"img_002": {
+				"img_002": { "x": -60.69, "y": 127.16, "scaleX": 1.8, "scaleY": 1.8, "width": 150, "height": 210 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1667, "x": -7.02, "y": 17.54, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333 }
+				]
+			},
+			"bone3": {
+				"translate": [
+					{ "y": 1.74, "curve": 0.381, "c2": 0.59, "c3": 0.729 },
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "y": 7.76, "curve": 0.243, "c3": 0.658, "c4": 0.64 },
+					{ "time": 2.3333, "y": 1.74 }
+				],
+				"scale": [
+					{ "x": 1.011, "y": 1.011, "curve": 0.381, "c2": 0.59, "c3": 0.729 },
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "x": 1.05, "y": 1.05, "curve": 0.243, "c3": 0.658, "c4": 0.64 },
+					{ "time": 2.3333, "x": 1.011, "y": 1.011 }
+				]
+			},
+			"bone2": {
+				"translate": [
+					{ "y": 6.32, "curve": 0.381, "c2": 0.59, "c3": 0.729 },
+					{ "time": 0.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "y": 28.15, "curve": 0.243, "c3": 0.658, "c4": 0.64 },
+					{ "time": 2.3333, "y": 6.32 }
+				]
+			}
+		}
+	}
+}
+}

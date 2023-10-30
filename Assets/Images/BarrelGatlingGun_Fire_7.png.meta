@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 58525e7261854251b61265559fa05fd8
+timeCreated: 1690386840
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BarrelGatlingGun_Fire_7
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -63.5, y: -29.51661}
+      - {x: -63.5, y: 16.48339}
+      - {x: -31.5, y: -60.51661}
+    - - {x: -32.5, y: 60.48339}
+      - {x: -31.5, y: -60.51661}
+      - {x: -63.5, y: 16.48339}
+    - - {x: 40.5, y: 60.48339}
+      - {x: -31.5, y: -60.51661}
+      - {x: -32.5, y: 60.48339}
+    - - {x: 52.5, y: -60.51661}
+      - {x: -31.5, y: -60.51661}
+      - {x: 40.5, y: 60.48339}
+    - - {x: 63.5, y: 34.48339}
+      - {x: 52.5, y: -60.51661}
+      - {x: 40.5, y: 60.48339}
+    - - {x: 63.5, y: -46.51661}
+      - {x: 52.5, y: -60.51661}
+      - {x: 63.5, y: 34.48339}
+    physicsShape:    
+    - - {x: 28.5, y: -25.51661}
+      - {x: 29.49999, y: -20.51661}
+      - {x: 29.49999, y: -18.51661}
+      - {x: 27.5, y: -15.51661}
+      - {x: 24.49999, y: -2.516609}
+      - {x: 40.5, y: -20.51661}
+      - {x: 63.5, y: -17.51661}
+      - {x: 63.5, y: 18.48339}
+      - {x: 42.5, y: 19.48339}
+      - {x: 32.5, y: 15.48339}
+      - {x: 29.49999, y: 47.48339}
+      - {x: 25.5, y: 57.48339}
+      - {x: 19.5, y: 59.48339}
+      - {x: 9.499996, y: 59.48339}
+      - {x: 5.499996, y: 47.48339}
+      - {x: -15.5, y: 57.48339}
+      - {x: -22.5, y: 59.48339}
+      - {x: -27.5, y: 59.48339}
+      - {x: -30.5, y: 57.48339}
+      - {x: -35.5, y: 22.48339}
+      - {x: -42.5, y: 19.48339}
+      - {x: -60.5, y: 18.48339}
+      - {x: -62.5, y: 14.48339}
+      - {x: -62.5, y: -14.51661}
+      - {x: -59.5, y: -17.51661}
+      - {x: -40.5, y: -19.51661}
+      - {x: -25.5, y: -10.51661}
+      - {x: -30.5, y: -16.51661}
+      - {x: -29.5, y: -27.51661}
+      - {x: -27.5, y: -48.51661}
+      - {x: -26.5, y: -51.51661}
+      - {x: -24.5, y: -55.51661}
+      - {x: -9.500004, y: -59.51661}
+      - {x: 11.5, y: -59.51661}
+      - {x: 27.5, y: -53.51661}
+      - {x: 28.5, y: -45.51661}
+      - {x: 22.5, y: -38.51661}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

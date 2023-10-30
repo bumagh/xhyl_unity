@@ -1,0 +1,27 @@
+
+fql.png
+size: 656,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111_FlyOut
+  rotate: true
+  xy: 2, 2
+  size: 481, 485
+  orig: 500, 500
+  offset: 12, 15
+  index: -1
+CQ9_Icon
+  rotate: false
+  xy: 489, 59
+  size: 100, 36
+  orig: 100, 100
+  offset: 0, 38
+  index: -1
+box1
+  rotate: true
+  xy: 489, 97
+  size: 386, 164
+  orig: 386, 164
+  offset: 0, 0
+  index: -1

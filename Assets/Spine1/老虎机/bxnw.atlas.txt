@@ -1,0 +1,27 @@
+
+bxnw.png
+size: 672,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+115_Snow Queen
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+CQ9_Icon
+  rotate: false
+  xy: 504, 78
+  size: 100, 36
+  orig: 100, 100
+  offset: 0, 38
+  index: -1
+box1
+  rotate: true
+  xy: 504, 116
+  size: 386, 164
+  orig: 386, 164
+  offset: 0, 0
+  index: -1

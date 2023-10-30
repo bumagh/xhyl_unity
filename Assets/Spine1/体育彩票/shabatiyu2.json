@@ -1,0 +1,49 @@
+{
+"skeleton": {
+	"hash": "ntmelemHPTuR/7sh/Z1cs067YQc",
+	"spine": "3.8.83",
+	"x": -203.85,
+	"y": -200.17,
+	"width": 417,
+	"height": 418,
+	"images": "./images/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" }
+],
+"slots": [
+	{ "name": "saba_logo_skype", "bone": "bone", "attachment": "saba_logo_skype" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"saba_logo_skype": {
+				"saba_logo_skype": { "x": 4.65, "y": 8.83, "width": 417, "height": 418 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "y": 10, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "y": 10, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4 }
+				],
+				"scale": [
+					{ "time": 1 },
+					{ "time": 1.5, "x": -1 },
+					{ "time": 2 }
+				]
+			}
+		}
+	}
+}
+}

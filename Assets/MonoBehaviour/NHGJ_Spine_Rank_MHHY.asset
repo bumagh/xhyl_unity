@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591631cfb05f3e38d71e44b395231202, type: 3}
+  m_Name: NHGJ_Spine_Rank_MHHY
+  m_EditorClassIdentifier: 
+  list:
+  - name_cn: "\u6447\u94B1\u6811"
+    name_en: Money Tree
+    name_vn: "C\xE2y kim ti\u1EC1n"
+    spine: {fileID: 11400000, guid: abe575ffbbd89e4408557b2f72397a5b, type: 2}
+    id: 2
+    rankType: 4
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: b1301f9e8fb4935409f80114c30b6094, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 72da83540492b6947b5ef0feade00155, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 9cff166750b51504bb043093605acbf4, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: fishGame
+    RunStatus: 1
+    action: com.xingll.fish_fish
+    package: com.xingll.fish
+    schema: MoneyFish://
+  - name_cn: "\u725B\u9B54\u738B"
+    name_en: Bull King
+    name_vn: "Ng\u01B0u Ma V\u01B0\u01A1ng"
+    spine: {fileID: 11400000, guid: 49427682e6d110b48b0f1db5a3bc1cc4, type: 2}
+    id: 4
+    rankType: 6
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 37f4f37a4cce4924f84577f37df0d0cf, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 623ad974c6fda1340a6292728e607a5b, type: 3}
+    spiNameVN: {fileID: 21300000, guid: ae66deb5349ee5649a33663e9d689ac8, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: bulletGame
+    RunStatus: 1
+    action: com.xingli.overfish_fish
+    package: com.xingli.overfish
+    schema: MoneyFish://
+  - name_cn: "QQ\u7F8E\u4EBA\u9C7C"
+    name_en: 'QQMermaid '
+    name_vn: "QQM\u1EF9 Nh\xE2n Ng\u01B0"
+    spine: {fileID: 11400000, guid: d2e5ab32a6b3e884c922e80f092c7ad0, type: 2}
+    id: 5
+    rankType: 7
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: f5589291b4a7c594db875d3e2f4166eb, type: 3}
+    spiNameEN: {fileID: 21300000, guid: df267cc6a429cfa45a725799b0f552b2, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 0f8d3ebe8993b3a48bc756b63467e01d, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: mermaidGame
+    RunStatus: 1
+    action: com.xingli.beautyfish_fish
+    package: com.xingli.beautyfish
+    schema: MoneyFish://
+  - name_cn: "\u674E\u9035\u5288\u9C7C"
+    name_en: Likui Split Fish
+    name_vn: "L\xFD Qu\u1EF3"
+    spine: {fileID: 11400000, guid: 21917bd3871860b42b38dad4a5edec11, type: 2}
+    id: 21
+    rankType: 33
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 8b41284b6710fe542bb72f392e46a644, type: 3}
+    spiNameEN: {fileID: 21300000, guid: b42ca12de70643441be61321330724f2, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 7cb676ec141bab24ab7436b67314dcd9, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: liKuiGame
+    RunStatus: 1
+    action: com.xingli.likuifish.MainActivity211
+    package: OverFish2112
+    schema: LlKuiFishing://2110
+  - name_cn: "\u91D1\u87FE\u6355\u9C7C"
+    name_en: ToadFish388
+    name_vn: "C\xF3c V\xE0ng"
+    spine: {fileID: 11400000, guid: df0e34a7c9c614648ad69db3809173ea, type: 2}
+    id: 32
+    rankType: 34
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 57b77f2e2f483064c87cc360b9b89009, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 7ccd1616c548ce1438747ff9fed5c2f0, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 2283212bd28359a4c89ae49fdc9999e2, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: toadGame
+    RunStatus: 1
+    action: jin
+    package: todfish385
+    schema: toad384
+  - name_cn: "\u5E78\u8FD0\u516D\u72EE"
+    name_en: Lucky Lion
+    name_vn: "L\u1EE5c S\u01B0 May M\u0103n"
+    spine: {fileID: 11400000, guid: b103ec735ac02e9409f8f549c332f508, type: 2}
+    id: 1
+    rankType: 3
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 0456e2907d8c40842a323ea8af8e7e20, type: 3}
+    spiNameEN: {fileID: 21300000, guid: c9f7ea82ae1412b40bc677e7f6bc05e2, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 5516eb8143f057e41853a672cdd1bd22, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: luckGame
+    RunStatus: 1
+    action: com.xingli.lion_lion
+    package: com.xingli.lion
+    schema: LuckyLion://
+  - name_cn: "\u5355\u6311"
+    name_en: DanTiao
+    name_vn: "\u0110\u01A1n \u0111\u1EA5u"
+    spine: {fileID: 11400000, guid: ae3753c3c216a3643a7f277ea74a8e4c, type: 2}
+    id: 3
+    rankType: 5
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: f641df1811fea694ca0bb61bdbd7d171, type: 3}
+    spiNameEN: {fileID: 21300000, guid: b517eb2340f195a4b835e64903d4df5f, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 4c2a4647d3ac9e647b11109e34476cc6, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: cardGame
+    RunStatus: 1
+    action: com.xingli.dantiao.MainActivity
+    package: com.xingli.dantiao
+    schema: DanTiao://
+  - name_cn: "\u6C34\u6D52\u4F20"
+    name_en: Water Margin
+    name_vn: Water Margin
+    spine: {fileID: 11400000, guid: 170574c9d2ca9d04ea476267eb951a1d, type: 2}
+    id: 8
+    rankType: 10
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: ca51dc961017c274ca49a7217e2b95f4, type: 3}
+    spiNameEN: {fileID: 21300000, guid: ddf915c31582b3649a12a3e9922e48f0, type: 3}
+    spiNameVN: {fileID: 21300000, guid: c13c80246bfbb9b45805094de52bd7ad, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: WaterGame
+    RunStatus: 1
+    action: com.xingli.waterlaction
+    package: com.xingli.water
+    schema: WaterMargin://
+  - name_cn: "\u5927\u95F9\u5929\u5BAB"
+    name_en: DNTG
+    name_vn: "\u0110\u1EA1i N\xE1o Thi\xEAn Cung"
+    spine: {fileID: 11400000, guid: 695aecdb135813c43bf1d3b861e2158d, type: 2}
+    id: 92
+    rankType: 43
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: df6c6ae6f310d1442919d37154338572, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 6a94a29dbb882eb469cda9eccd8dab56, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 9e3cd97b657197e418b8d5bad7bbee00, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: heavenGame
+    RunStatus: 0
+    action: DN922
+    package: DN9222
+    schema: DN92222
+  - name_cn: "\u5954\u9A70\u5B9D\u9A6C"
+    name_en: Benz&BMW
+    name_vn: Benz&BMW
+    spine: {fileID: 11400000, guid: 9023d3aeaf442d0478ef454607f51631, type: 2}
+    id: 52
+    rankType: 42
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 54fbb4f3b7a7bce4988b461734925187, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 59cada6e82275b742b06df894ce94e91, type: 3}
+    spiNameVN: {fileID: 21300000, guid: ffed6a093947bee46961f1fa5a7233fd, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: benzBmwGame
+    RunStatus: 0
+    action: BCBMao1
+    package: BCBMao2
+    schema: BCBMao3

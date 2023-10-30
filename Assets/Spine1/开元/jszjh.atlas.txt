@@ -1,0 +1,20 @@
+
+jszjh.png
+size: 260,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+230-girl
+  rotate: true
+  xy: 2, 2
+  size: 148, 189
+  orig: 154, 196
+  offset: 0, 7
+  index: -1
+lhh
+  rotate: true
+  xy: 193, 69
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

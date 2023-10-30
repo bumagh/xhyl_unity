@@ -1,0 +1,27 @@
+
+dantiao.png
+size: 280,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dtdt02
+  rotate: false
+  xy: 2, 14
+  size: 183, 131
+  orig: 183, 131
+  offset: 0, 0
+  index: -1
+img_dtdt03
+  rotate: true
+  xy: 187, 61
+  size: 84, 91
+  orig: 86, 92
+  offset: 1, 1
+  index: -1
+img_dtdt04
+  rotate: true
+  xy: 187, 2
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1

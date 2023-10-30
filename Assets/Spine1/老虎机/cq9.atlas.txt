@@ -1,0 +1,27 @@
+
+cq9.png
+size: 640,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CQ9_Icon
+  rotate: true
+  xy: 602, 66
+  size: 100, 36
+  orig: 100, 100
+  offset: 0, 38
+  index: -1
+box1
+  rotate: false
+  xy: 2, 2
+  size: 386, 164
+  orig: 386, 164
+  offset: 0, 0
+  index: -1
+img_002
+  rotate: true
+  xy: 390, 16
+  size: 150, 210
+  orig: 150, 210
+  offset: 0, 0
+  index: -1

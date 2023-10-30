@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 289539427e654c2d995b64381b43b441
+timeCreated: 1690386864
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "\u79C0\u82F1\u4F53\u82F1\u6587"
+  fontNames:
+  - ?????
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

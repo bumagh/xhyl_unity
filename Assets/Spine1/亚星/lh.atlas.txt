@@ -1,0 +1,20 @@
+
+lh.png
+size: 492,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_004
+  rotate: true
+  xy: 290, 2
+  size: 150, 197
+  orig: 150, 197
+  offset: 0, 0
+  index: -1
+yaxing_logo
+  rotate: false
+  xy: 2, 2
+  size: 286, 150
+  orig: 300, 150
+  offset: 7, 0
+  index: -1

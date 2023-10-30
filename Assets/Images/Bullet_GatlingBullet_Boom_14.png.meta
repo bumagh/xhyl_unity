@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 7e721c5191b9476fa408fe80c77b1c22
+timeCreated: 1690386846
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bullet_GatlingBullet_Boom_14
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -46.00344, y: -17.49355}
+      - {x: -46.00344, y: 27.50645}
+      - {x: -42.00344, y: -35.49355}
+    - - {x: -25.00344, y: 47.50645}
+      - {x: -42.00344, y: -35.49355}
+      - {x: -46.00344, y: 27.50645}
+    - - {x: -20.00344, y: -51.49355}
+      - {x: -42.00344, y: -35.49355}
+      - {x: -25.00344, y: 47.50645}
+    - - {x: -17.00344, y: 51.50645}
+      - {x: -20.00344, y: -51.49355}
+      - {x: -25.00344, y: 47.50645}
+    - - {x: 18.99656, y: -51.49355}
+      - {x: -20.00344, y: -51.49355}
+      - {x: -17.00344, y: 51.50645}
+    - - {x: 25.99656, y: 51.50645}
+      - {x: 18.99656, y: -51.49355}
+      - {x: -17.00344, y: 51.50645}
+    - - {x: 45.99656, y: -19.49355}
+      - {x: 18.99656, y: -51.49355}
+      - {x: 25.99656, y: 51.50645}
+    - - {x: 45.99656, y: 34.50645}
+      - {x: 45.99656, y: -19.49355}
+      - {x: 25.99656, y: 51.50645}
+    physicsShape:    
+    - - {x: 35.99656, y: 1.506451}
+      - {x: 28.99656, y: 16.50645}
+      - {x: 24.99656, y: 29.50645}
+      - {x: 22.99656, y: 32.50645}
+      - {x: 12.99656, y: 37.50645}
+      - {x: -0.003437042, y: 37.50645}
+      - {x: -14.00344, y: 35.50645}
+      - {x: -25.00344, y: 31.50645}
+      - {x: -25.00344, y: 21.50645}
+      - {x: -37.00344, y: 10.50645}
+      - {x: -37.00344, y: 0.5064507}
+      - {x: -35.00344, y: -7.493549}
+      - {x: -29.00344, y: -16.49355}
+      - {x: -30.00344, y: -25.49355}
+      - {x: -15.00344, y: -33.49355}
+      - {x: 0.996563, y: -30.49355}
+      - {x: 2.996563, y: -33.49355}
+      - {x: 7.996563, y: -35.49355}
+      - {x: 14.99656, y: -35.49355}
+      - {x: 19.99656, y: -32.49355}
+      - {x: 23.99656, y: -22.49355}
+      - {x: 35.99656, y: -6.493549}
+      - {x: 22.99656, y: 8.506451}
+      - {x: 21.99656, y: 9.506451}
+      - {x: 19.99656, y: 6.506451}
+      - {x: 19.99656, y: 5.506451}
+      - {x: 20.99656, y: 5.506451}
+      - {x: -7.003437, y: 20.50645}
+      - {x: -3.003437, y: 20.50645}
+      - {x: -3.003437, y: 19.50645}
+      - {x: -7.003437, y: 19.50645}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

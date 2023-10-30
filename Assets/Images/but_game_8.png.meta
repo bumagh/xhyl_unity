@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: a509d84f20e74c53b8a880801113c8e6
+timeCreated: 1690386846
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: but_game_8
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -45, y: 41}
+      - {x: -45, y: 45}
+      - {x: -42, y: 42}
+    - - {x: -42, y: 45}
+      - {x: -42, y: 42}
+      - {x: -45, y: 45}
+    - - {x: -45, y: 21}
+      - {x: -45, y: 33}
+      - {x: -42, y: 22}
+    - - {x: -44, y: 33}
+      - {x: -42, y: 22}
+      - {x: -45, y: 33}
+    - - {x: -42, y: 31}
+      - {x: -42, y: 22}
+      - {x: -44, y: 33}
+    - - {x: -45, y: -45}
+      - {x: -45, y: 21}
+      - {x: 42, y: -45}
+    - - {x: -42, y: 22}
+      - {x: 42, y: -45}
+      - {x: -45, y: 21}
+    - - {x: -42, y: 31}
+      - {x: 42, y: -45}
+      - {x: -42, y: 22}
+    - - {x: -21, y: 42}
+      - {x: 42, y: -45}
+      - {x: -42, y: 31}
+    - - {x: -16, y: 44}
+      - {x: 42, y: -45}
+      - {x: -21, y: 42}
+    - - {x: -13, y: 45}
+      - {x: 42, y: -45}
+      - {x: -16, y: 44}
+    - - {x: 14, y: 45}
+      - {x: 42, y: -45}
+      - {x: -13, y: 45}
+    - - {x: 45, y: 35}
+      - {x: 42, y: -45}
+      - {x: 14, y: 45}
+    - - {x: 45, y: -34}
+      - {x: 42, y: -45}
+      - {x: 45, y: 35}
+    - - {x: -45, y: 33}
+      - {x: -45, y: 38}
+      - {x: -44, y: 33}
+    - - {x: -21, y: 42}
+      - {x: -44, y: 33}
+      - {x: -45, y: 38}
+    - - {x: -42, y: 31}
+      - {x: -44, y: 33}
+      - {x: -21, y: 42}
+    physicsShape:    
+    - - {x: 45, y: 13}
+      - {x: 39, y: 29}
+      - {x: 18, y: 45}
+      - {x: -12, y: 45}
+      - {x: -17, y: 44}
+      - {x: -29, y: 37}
+      - {x: -37, y: 28}
+      - {x: -45, y: 11}
+      - {x: -45, y: -13}
+      - {x: -39, y: -29}
+      - {x: -22, y: -42}
+      - {x: -13, y: -45}
+      - {x: 19, y: -45}
+      - {x: 39, y: -28}
+      - {x: 45, y: -15}
+      - {x: -20, y: -30}
+      - {x: -34, y: -13}
+      - {x: -34, y: 11}
+      - {x: -20, y: 29}
+      - {x: -5, y: 35}
+      - {x: 11, y: 34}
+      - {x: 30, y: 20}
+      - {x: 35, y: 7}
+      - {x: 34, y: -11}
+      - {x: 28, y: -23}
+      - {x: 20, y: -30}
+      - {x: -6, y: -35}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

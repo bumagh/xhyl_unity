@@ -1,0 +1,20 @@
+
+pdko.png
+size: 280,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-8130
+  rotate: true
+  xy: 2, 2
+  size: 208, 210
+  orig: 208, 210
+  offset: 0, 0
+  index: -1
+lhh
+  rotate: true
+  xy: 214, 129
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

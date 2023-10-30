@@ -1,0 +1,13 @@
+
+baijial.png
+size: 132,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baijiale_girl_icon
+  rotate: false
+  xy: 2, 2
+  size: 125, 212
+  orig: 127, 212
+  offset: 1, 0
+  index: -1

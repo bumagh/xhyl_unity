@@ -1,0 +1,27 @@
+
+xlch.png
+size: 328,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-650
+  rotate: false
+  xy: 2, 2
+  size: 256, 213
+  orig: 257, 220
+  offset: 1, 3
+  index: -1
+girl-650-asset
+  rotate: false
+  xy: 260, 124
+  size: 55, 91
+  orig: 137, 138
+  offset: 42, 37
+  index: -1
+lhh
+  rotate: true
+  xy: 260, 41
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

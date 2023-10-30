@@ -1,0 +1,20 @@
+
+yuxiax.png
+size: 280,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-1930
+  rotate: true
+  xy: 2, 2
+  size: 144, 208
+  orig: 154, 210
+  offset: 4, 1
+  index: -1
+lhh
+  rotate: true
+  xy: 212, 65
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

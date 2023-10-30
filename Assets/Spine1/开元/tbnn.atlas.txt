@@ -1,0 +1,20 @@
+
+tbnn.png
+size: 248,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+870cow
+  rotate: false
+  xy: 2, 2
+  size: 178, 176
+  orig: 202, 210
+  offset: 12, 17
+  index: -1
+lhh
+  rotate: true
+  xy: 182, 97
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

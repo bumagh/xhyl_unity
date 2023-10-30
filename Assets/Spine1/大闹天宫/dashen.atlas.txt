@@ -1,0 +1,20 @@
+
+dashen.png
+size: 336,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dhswk1
+  rotate: false
+  xy: 2, 2
+  size: 217, 205
+  orig: 218, 211
+  offset: 1, 0
+  index: -1
+img_dhswk2
+  rotate: true
+  xy: 221, 24
+  size: 183, 110
+  orig: 185, 111
+  offset: 2, 1
+  index: -1

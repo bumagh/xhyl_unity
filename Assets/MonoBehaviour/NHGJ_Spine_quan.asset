@@ -1,0 +1,1338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591631cfb05f3e38d71e44b395231202, type: 3}
+  m_Name: NHGJ_Spine_quan
+  m_EditorClassIdentifier: 
+  list:
+  - name_cn: "\u6447\u94B1\u6811"
+    name_en: Money Tree
+    name_vn: "C\xE2y kim ti\u1EC1n"
+    spine: {fileID: 11400000, guid: abe575ffbbd89e4408557b2f72397a5b, type: 2}
+    id: 2
+    rankType: 23
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: b1301f9e8fb4935409f80114c30b6094, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 72da83540492b6947b5ef0feade00155, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 9cff166750b51504bb043093605acbf4, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: fishGame
+    RunStatus: 1
+    action: com.xingll.fish_fish
+    package: com.xingll.fish
+    schema: MoneyFish://
+  - name_cn: "\u725B\u9B54\u738B"
+    name_en: Bull King
+    name_vn: "Ng\u01B0u Ma V\u01B0\u01A1ng"
+    spine: {fileID: 11400000, guid: 49427682e6d110b48b0f1db5a3bc1cc4, type: 2}
+    id: 4
+    rankType: 6
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 37f4f37a4cce4924f84577f37df0d0cf, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 623ad974c6fda1340a6292728e607a5b, type: 3}
+    spiNameVN: {fileID: 21300000, guid: ae66deb5349ee5649a33663e9d689ac8, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: bulletGame
+    RunStatus: 1
+    action: com.xingli.overfish_fish
+    package: com.xingli.overfish
+    schema: MoneyFish://
+  - name_cn: "QQ\u7F8E\u4EBA\u9C7C"
+    name_en: 'QQMermaid '
+    name_vn: "QQM\u1EF9 Nh\xE2n Ng\u01B0"
+    spine: {fileID: 11400000, guid: d2e5ab32a6b3e884c922e80f092c7ad0, type: 2}
+    id: 5
+    rankType: 7
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: f5589291b4a7c594db875d3e2f4166eb, type: 3}
+    spiNameEN: {fileID: 21300000, guid: df267cc6a429cfa45a725799b0f552b2, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 0f8d3ebe8993b3a48bc756b63467e01d, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: mermaidGame
+    RunStatus: 1
+    action: com.xingli.beautyfish_fish
+    package: com.xingli.beautyfish
+    schema: MoneyFish://
+  - name_cn: "\u674E\u9035\u5288\u9C7C"
+    name_en: Likui Split Fish
+    name_vn: "L\xFD Qu\u1EF3"
+    spine: {fileID: 11400000, guid: 21917bd3871860b42b38dad4a5edec11, type: 2}
+    id: 21
+    rankType: 23
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 8b41284b6710fe542bb72f392e46a644, type: 3}
+    spiNameEN: {fileID: 21300000, guid: b42ca12de70643441be61321330724f2, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 7cb676ec141bab24ab7436b67314dcd9, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: liKuiGame
+    RunStatus: 1
+    action: com.xingli.likuifish.MainActivity211
+    package: OverFish2112
+    schema: LlKuiFishing://2110
+  - name_cn: "\u91D1\u87FE\u6355\u9C7C"
+    name_en: ToadFish388
+    name_vn: "C\xF3c V\xE0ng"
+    spine: {fileID: 11400000, guid: df0e34a7c9c614648ad69db3809173ea, type: 2}
+    id: 38
+    rankType: 1
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 57b77f2e2f483064c87cc360b9b89009, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 7ccd1616c548ce1438747ff9fed5c2f0, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 2283212bd28359a4c89ae49fdc9999e2, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: toadGame
+    RunStatus: 1
+    action: jin
+    package: todfish385
+    schema: toad384
+  - name_cn: "\u5E78\u8FD0\u516D\u72EE"
+    name_en: Lucky Lion
+    name_vn: "L\u1EE5c S\u01B0 May M\u0103n"
+    spine: {fileID: 11400000, guid: b103ec735ac02e9409f8f549c332f508, type: 2}
+    id: 1
+    rankType: 3
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 0456e2907d8c40842a323ea8af8e7e20, type: 3}
+    spiNameEN: {fileID: 21300000, guid: c9f7ea82ae1412b40bc677e7f6bc05e2, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 5516eb8143f057e41853a672cdd1bd22, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: luckGame
+    RunStatus: 1
+    action: com.xingli.lion_lion
+    package: com.xingli.lion
+    schema: LuckyLion://
+  - name_cn: "\u5355\u6311"
+    name_en: DanTiao
+    name_vn: "\u0110\u01A1n \u0111\u1EA5u"
+    spine: {fileID: 11400000, guid: ae3753c3c216a3643a7f277ea74a8e4c, type: 2}
+    id: 3
+    rankType: 5
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: f641df1811fea694ca0bb61bdbd7d171, type: 3}
+    spiNameEN: {fileID: 21300000, guid: b517eb2340f195a4b835e64903d4df5f, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 4c2a4647d3ac9e647b11109e34476cc6, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: cardGame
+    RunStatus: 1
+    action: com.xingli.dantiao.MainActivity
+    package: com.xingli.dantiao
+    schema: DanTiao://
+  - name_cn: "\u6C34\u6D52\u4F20"
+    name_en: Water Margin
+    name_vn: Water Margin
+    spine: {fileID: 11400000, guid: 170574c9d2ca9d04ea476267eb951a1d, type: 2}
+    id: 8
+    rankType: 10
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: ca51dc961017c274ca49a7217e2b95f4, type: 3}
+    spiNameEN: {fileID: 21300000, guid: ddf915c31582b3649a12a3e9922e48f0, type: 3}
+    spiNameVN: {fileID: 21300000, guid: c13c80246bfbb9b45805094de52bd7ad, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: WaterGame
+    RunStatus: 1
+    action: com.xingli.waterlaction
+    package: com.xingli.water
+    schema: WaterMargin://
+  - name_cn: "\u5927\u95F9\u5929\u5BAB"
+    name_en: DNTG
+    name_vn: "\u0110\u1EA1i N\xE1o Thi\xEAn Cung"
+    spine: {fileID: 11400000, guid: 695aecdb135813c43bf1d3b861e2158d, type: 2}
+    id: 92
+    rankType: 911
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: df6c6ae6f310d1442919d37154338572, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 6a94a29dbb882eb469cda9eccd8dab56, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 9e3cd97b657197e418b8d5bad7bbee00, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: heavenGame
+    RunStatus: 1
+    action: DN922
+    package: DN9222
+    schema: DN92222
+  - name_cn: "\u5954\u9A70\u5B9D\u9A6C"
+    name_en: Benz&BMW
+    name_vn: Benz&BMW
+    spine: {fileID: 11400000, guid: 9023d3aeaf442d0478ef454607f51631, type: 2}
+    id: 52
+    rankType: 15
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 54fbb4f3b7a7bce4988b461734925187, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 59cada6e82275b742b06df894ce94e91, type: 3}
+    spiNameVN: {fileID: 21300000, guid: ffed6a093947bee46961f1fa5a7233fd, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: benzBmwGame
+    RunStatus: 1
+    action: BCBMao1
+    package: BCBMao2
+    schema: BCBMao3
+  - name_cn: "\u91D1\u6C99\u94F6\u6C99"
+    name_en: GoldenSharks
+    name_vn: "C\xE1 M\u1EADp Kim Sa"
+    spine: {fileID: 11400000, guid: 9a90e1951746e384087ddf2cf64e0009, type: 2}
+    id: 43
+    rankType: 14
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 2c9bf0176ec48a241b14b0521eb42655, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 4ee77395c8d4f63408bf942d3469a6ae, type: 3}
+    spiNameVN: {fileID: 21300000, guid: e2048191afd130446b12d950c1fd49ee, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: sharkGame
+    RunStatus: 0
+    action: jin
+    package: JSYS43
+    schema: jin
+  - name_cn: "\u9F99\u864E\u6597"
+    name_en: Dragon-Tiger
+    name_vn: Dragon-Tiger
+    spine: {fileID: 11400000, guid: 845c6fa08ab893542ad30287a2c677e9, type: 2}
+    id: 103
+    rankType: 33
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 33d5b4e93ef131446b57344f84a2a0ff, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 3e1e786547d070e44a539647cd6c5307, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 9a1efb6560c96d04d98882cd68f64281, type: 3}
+    plat_type: dg
+    game_type: 1
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: dragonTigerGame
+    RunStatus: 0
+    action: lhd3332
+    package: lhd3332
+    schema: lhd3332
+  - name_cn: "\u6C34\u679C\u673A"
+    name_en: Furit Slot
+    name_vn: "M\xE1y l\xE0m hoa qu\xE1"
+    spine: {fileID: 11400000, guid: ad99b8d992ab0f94bbfbf62e1c6cc4fd, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: f7d15ef6abaf9ce499e36ba002a1599f, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 5d447f787f849fe44a2fad746e6ff099, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 064d367d1dae24444928ece9d62ad054, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: FuritSlot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u62A2\u5E84\u725B\u725B"
+    name_en: Bull-Bull
+    name_vn: Bull-Bull
+    spine: {fileID: 11400000, guid: 22a2e5eb72695ac4bb37a019893f0d59, type: 2}
+    id: 1
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 3bd46bd5db012cf4da652409321da3c5, type: 3}
+    spiNameEN: {fileID: 21300000, guid: ee570233197d53a4d90e7814a48d6fce, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 064d367d1dae24444928ece9d62ad054, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: Bull-Bull
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u70B8\u91D1\u82B1"
+    name_en: GoldenFlower
+    name_vn: "V\xE0ng n\u1ED5"
+    spine: {fileID: 11400000, guid: 446ab324cc5ec3a48ac3d1212b788778, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: ae9ef7c25d3c43645827e7058857be08, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 03fb03f0b7d37134b973a040ad25b3bb, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 118e75d6ff5354f47b086e8794194941, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: lh3lo18i46
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: GoldenFlower
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6B27\u6D32\u5385\u767E\u5BB6\u4E50"
+    name_en: OZTBJL
+    name_vn: OZTBJL
+    spine: {fileID: 11400000, guid: 17bbe1736e2ce4a4ba5542045a7e6e13, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: f90e0d255d2680a44bb8cce6d47c2685, type: 3}
+    spiNameEN: {fileID: 21300000, guid: eff5b9fbefd6e9246bd807b91aeaf3d9, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 87e6e47e98121984dba0d298af62b642, type: 3}
+    plat_type: ag
+    game_type: 1
+    game_code: 1
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: OZTBJL
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: AsiaGaming
+    name_en: AsiaGaming
+    name_vn: AsiaGaming
+    spine: {fileID: 11400000, guid: e22eec70e9046ae4db03a832ff2f15c2, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: a6f909022ad41a74f873ff67b6f00b63, type: 3}
+    spiNameEN: {fileID: 21300000, guid: a6f909022ad41a74f873ff67b6f00b63, type: 3}
+    spiNameVN: {fileID: 21300000, guid: a6f909022ad41a74f873ff67b6f00b63, type: 3}
+    plat_type: ag
+    game_type: 1
+    game_code: 1
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: AsiaGaming
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u62BC\u5B9D\u62A2\u5E84\u725B\u725B"
+    name_en: Bet3 PlayersBull-Bull
+    name_vn: Bet3 PlayersBull-Bull
+    spine: {fileID: 11400000, guid: 2d20ae9ad0f2ecf4ea7c643a93234d05, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 2bbcb449f801d5e4d9b91a6c9fd5b4ba, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 570758fb726be3741b2dd65011ad72a1, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 17fff9231851bea4d893ac45f8facf5e, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: f9g3m2yvb5
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: Bet3PlayersBull-Bull
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u9F99\u864E"
+    name_en: dragpn
+    name_vn: dragpn
+    spine: {fileID: 11400000, guid: b2863dbc0c1d2f441b4e4fafcb90a089, type: 2}
+    id: 11
+    rankType: 3333
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 84f8891b1c472aa41a20b6073959a5ab, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 7e3f41060c679594dbb9ad3517370d99, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 59450afd44f998e40aea464d145022a7, type: 3}
+    plat_type: dg
+    game_type: 1
+    game_code: 1
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: dragpn
+    RunStatus: 1
+    action: LHd33
+    package: LHd33
+    schema: LHd33
+  - name_cn: "21\u70B9"
+    name_en: Black Jack
+    name_vn: Black Jack
+    spine: {fileID: 11400000, guid: 1c26e7bda065ab342867f7b161b307a4, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: c26936c73e792bd4bbacdd102c500977, type: 3}
+    spiNameEN: {fileID: 21300000, guid: c6e35ce39f913714484a6e06022fd845, type: 3}
+    spiNameVN: {fileID: 21300000, guid: d3a35e3fb5a24b94ba775952f7559a98, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: dz2fvc5c90
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: BlackJack
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u65D7\u8230\u56FD\u9645\u5385"
+    name_en: QJGJT
+    name_vn: QJGJT
+    spine: {fileID: 11400000, guid: ec23cdd0bb1386a42aeeef86cf2cc68a, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 65fa2993acc9420d806736d7a1daa398, type: 3}
+    spiName: {fileID: 21300000, guid: 4c25dd359578f234c9b7052d7b3fd0e1, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 0a149899df529054c8d039b9de698e91, type: 3}
+    spiNameVN: {fileID: 21300000, guid: d95e8d623cccbca4a99610d7b6425ebb, type: 3}
+    plat_type: dg
+    game_type: 1
+    game_code: 1
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: QJGJT
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u591A\u53F0"
+    name_en: YX Bull Bull
+    name_vn: YX Bull Bull
+    spine: {fileID: 11400000, guid: 545c5b4dd4335c044b948bdd12a300e0, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 699533bb10d5a6f4ba04ad18142d37da, type: 3}
+    spiNameEN: {fileID: 21300000, guid: fa14677d7d0e70544b42dfe0db2dd648, type: 3}
+    spiNameVN: {fileID: 21300000, guid: bfc74d6bbf7562c448506a587a57679c, type: 3}
+    plat_type: dg
+    game_type: 1
+    game_code: 1
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: YXBullBull
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u725B\u725B2"
+    name_en: Bull-Bull2
+    name_vn: Bull-Bull2
+    spine: {fileID: 11400000, guid: fa3b1480915703041b5420c5906a5aa0, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 37ba50ecc036ce04eb546b405f86ad8d, type: 3}
+    spiNameEN: {fileID: 21300000, guid: a70119cce5017034984f51ecea928ead, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 4abcf81c71d95c340b8f34064c629469, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 6bs6b20608
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: Bull-Bull2
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E8C\u516B\u6760"
+    name_en: EBG
+    name_vn: EBG
+    spine: {fileID: 11400000, guid: 70ea9df50e25247449d701ebd7a42b80, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 50f355f279d5c4943bf05f99e05ddd40, type: 3}
+    spiNameEN: {fileID: 21300000, guid: d5b24ddb2caf2b748b1dbc9da1c8353f, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 7da9e1625e60a58439444eb8aa7f1742, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 13h3wgr649
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: EBG
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E09\u516C"
+    name_en: SG
+    name_vn: 
+    spine: {fileID: 11400000, guid: 793d718c1ac286e49a2627a90255a9a2, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: e64403023316ed04684d6b4e334a74ad, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 7c5c8f6ae12fa2b4cb0c3471599a07db, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 225b48de1a40d2f46a07b20ca216ae8c, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 3n22cjak48
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: SG
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u901A\u6BD4\u725B\u725B"
+    name_en: TBNN
+    name_vn: TBNN
+    spine: {fileID: 11400000, guid: 4d74e299164c71f419807491278f0fa2, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: f032bbafecdde6d41b27acc9b706d6f1, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 3fe314de111e5b945985baba98ecfc1e, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 0a6538250348ca7459915d518c4317b9, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 7k61oah5w6
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: TBNN
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u62A2\u5E84\u724C\u4E5D"
+    name_en: QZPJ
+    name_vn: QZPJ
+    spine: {fileID: 11400000, guid: 4cace1b6e4f6102419cbdafa0ad88433, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 2344be9461d528746bde92fde7805188, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 9db8f0dd4eca0ac4ca4c973460286056, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 49fb3327862a8ef449fcd8e03bf94896, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: d9vwh6dk02
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: QZPJ
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6597\u5730\u4E3B"
+    name_en: DDZ
+    name_vn: DDZ
+    spine: {fileID: 11400000, guid: e553da91ad8421c4c90501c4b1a9fe1f, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 868cd8544df74f940a8ee766a09d6e12, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 8832c6421bd815b4e9d3947d9642f086, type: 3}
+    spiNameVN: {fileID: 21300000, guid: b10e1243c5186b548b40095418417a95, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 2w28en10c6
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: DDZ
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u767E\u4EBA\u725B\u725B"
+    name_en: BRNN
+    name_vn: BRNN
+    spine: {fileID: 11400000, guid: 7dd642d4eb7d6274c9e6ebd7a5064905, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: e0905bd2c0922b2498fda8080dbed117, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 11960f8361ca2074e8bd6d33aecd8090, type: 3}
+    spiNameVN: {fileID: 21300000, guid: f45d5c304777c8746a5e79869f0d2a16, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: f02acu562e
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: BRNN
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8840\u6D41\u6210\u6CB3"
+    name_en: XLCH
+    name_vn: XLCH
+    spine: {fileID: 11400000, guid: 1b0c5af24ff118d4182fa628f6acfedd, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: f9a4906c91215554691a7d44a4807c08, type: 3}
+    spiNameEN: {fileID: 21300000, guid: fea21afff33c1ce4fb3339ab4b7ed153, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 90f63db99813d68439733a4b07a2a87b, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: n20og84hxa
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: XLCH
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E8C\u4EBA\u9EBB\u5C06"
+    name_en: ERMJ
+    name_vn: ERMJ
+    spine: {fileID: 11400000, guid: f4a566d6fcddab148b600f9d4fc26de4, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 28610f47f4addb249b822d44050a2f08, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 9b83e27bb206a894db830020077ba494, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 366abf018d9bff6428e677bf41f9aef2, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 4c99t66s87
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: ERMJ
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5355\u6311\u725B\u725B"
+    name_en: DTNN
+    name_vn: DTNN
+    spine: {fileID: 11400000, guid: cae0f0055b59f0c47a6433d39f2bb490, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: ce225c5caec1c904583f4fd98c9457aa, type: 3}
+    spiNameEN: {fileID: 21300000, guid: d7947da4d6ecef94fb6a4d1e057a416a, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 00a26c1849aad444db5e5114c7284eaf, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: shi3wzzeqy
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: DTNN
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u9C7C\u867E\u87F9"
+    name_en: YXX
+    name_vn: YXX
+    spine: {fileID: 11400000, guid: dd8309ab8a303e74faff949e7087c080, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 4a9cd119750e44d4fae3fac6edacdfc0, type: 3}
+    spiNameEN: {fileID: 21300000, guid: a019a6d0651a9c54085c393c6c823ec7, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 71597fcac93aa9f44b87a1ba62c7e096, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 9144qu0s42
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: YXX
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6781\u901F\u70B8\u91D1\u82B1"
+    name_en: JXZJH
+    name_vn: JXZJH
+    spine: {fileID: 11400000, guid: 50e316df9a490a841af30dd61ce48f3c, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 0a5f2545fde4ea5489eed3735ec1b6bc, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 4389e9af30baee54b971f02434a6f4ec, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 6b4e7ecdcfbde88499217b4bd07dcce6, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 045t758w6a
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: JXZJH
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5341\u4E09\u6C34"
+    name_en: SSS
+    name_vn: SSS
+    spine: {fileID: 11400000, guid: 85f7c2491bed4c84c999f335f2e33c87, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 28c914529d7f578488105357ad8ee596, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 63588956885ad6a408c24dc0dc189e8d, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 6f3dadd79c0f20f4b91381266079b9a9, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 871f217g1b
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: SSS
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8DD1\u5F97\u5FEB"
+    name_en: PDK
+    name_vn: PDK
+    spine: {fileID: 11400000, guid: 41b9ff9466431734a899f10e265c6903, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: ab6a5501b2d795040840b8d79d485c42, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 4ffcf3244deee0c4ebc3f8ec8c27f9f5, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 66a6e71149f2e5441a95da61e6ed7b2e, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 88kw2am7l0
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: PDK
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u767E\u5BB6\u4E50"
+    name_en: BJL
+    name_vn: BJL
+    spine: {fileID: 11400000, guid: 5545fa76c7a3b4941848bd50d1c53fc9, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 7f8354a1758dc6e48bb5b92945719d8e, type: 3}
+    spiNameEN: {fileID: 21300000, guid: d1c3a05a54a11c943bbdecb1dca1004d, type: 3}
+    spiNameVN: {fileID: 21300000, guid: f910b101fc5af1f429ef9462f373a677, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 0390ix066x
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: BJL
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E07\u4EBA\u70B8\u91D1\u82B1"
+    name_en: WRZJH
+    name_vn: WRZJH
+    spine: {fileID: 11400000, guid: 8c3f34c6171a68343805f329ac0bb1b2, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 36ebf3af78f37a145bbb2eca12a53433, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 891adc6d3934f8349b043b735bb042f4, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 1983a230466606447a403ba26fbd8df0, type: 3}
+    plat_type: ky
+    game_type: 7
+    game_code: 5nr15hi3rz
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: WRZJH
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6C99\u5DF4\u4F53\u80B2"
+    name_en: SBTY
+    name_vn: SBTY
+    spine: {fileID: 11400000, guid: b36f8ebd4e1a17a4fa560225c1cc4194, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 1064ded3baf977c46ad9e1ba1fac3e72, type: 3}
+    spiNameEN: {fileID: 21300000, guid: dd6ffe88999b52e48ae98be3ed035c11, type: 3}
+    spiNameVN: {fileID: 21300000, guid: c4cc297d6af09e94d8bf74b638f16886, type: 3}
+    plat_type: saba
+    game_type: 4
+    game_code: 1
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: SBTY
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5C0F\u7231\u795E"
+    name_en: XAS
+    name_vn: XAS
+    spine: {fileID: 11400000, guid: 509a9175d713fb646b9a7cfbb09ded7c, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 664bed73bb9218046b7855309e345523, type: 3}
+    spiNameEN: {fileID: 21300000, guid: ab7a9cc0e4773934d866e304a477af12, type: 3}
+    spiNameVN: {fileID: 21300000, guid: e919e4f9c9caa594aa31d191c8d9d155, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: rl2r2a1gfo
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: XAS
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u798F\u795E\u62A5\u559C"
+    name_en: FSBX
+    name_vn: FSBX
+    spine: {fileID: 11400000, guid: 2e34fe9bebfcef54b9cc56cb09200c4e, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 55bbd943279a4e644b25fd33ef2a74f9, type: 3}
+    spiNameEN: {fileID: 21300000, guid: b5e3dafef39943641abda762537a7025, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 80fff65542ec164479ffbee268e18f5f, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: cyl2g2v5kg
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: FSBX
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u7CBE\u7075"
+    name_en: JL
+    name_vn: JL
+    spine: {fileID: 11400000, guid: bbfb0c6157d788a40b04052e0e509bf1, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 028755b0aa40f804aba4af0172a1ddfa, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 720a1b5ae64b89540a011437e106f934, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 40904f5920c37f74b978add007d5b2d8, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: 454gevn161
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: JL
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8DF3\u9AD8\u9AD8"
+    name_en: TGG
+    name_vn: TGG
+    spine: {fileID: 11400000, guid: 7ba1118493e59ed45a5aee5a16d87d79, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 253e7f2c5d58c9c4eaabf24455dbe1d1, type: 3}
+    spiNameEN: {fileID: 21300000, guid: f3c6dbecc3b614e468d8078685215cfc, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 4ab4d1f73edbc044cbed026cf4aa85f7, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: 8m100g03xx
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: TGG
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8DF3\u9AD8\u9AD82"
+    name_en: TGG2
+    name_vn: TGG2
+    spine: {fileID: 11400000, guid: 7a0ea88fc44aade4ebd4755fac53a894, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: c1217e02f9930be46a9a4f9b2bd43a81, type: 3}
+    spiNameEN: {fileID: 21300000, guid: da39dbc4cf21f6a489bdbd949f259706, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 290fb544222d12c46887f33bec581e5b, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: 76geb07le4
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: TGG2
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5B59\u4E8C\u5A18"
+    name_en: SEN
+    name_vn: SEN
+    spine: {fileID: 11400000, guid: c0ecbc68c3535f748ad929972570b7b1, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 9d318e50be403934cb52961c99cd81cd, type: 3}
+    spiNameEN: {fileID: 21300000, guid: d36f28cf0765e6e468d7e803b32c0a07, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 6ce3882fc60067342a80bf5f786d8590, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: mln95ph84p
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: SEN
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u91D1\u9E21\u62A5\u559C"
+    name_en: JJBX
+    name_vn: JJBX
+    spine: {fileID: 11400000, guid: 12a939269756d5d43accd6b97c6dfad7, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: cd89a8a1fd24c8e47b6c4f6106d3e249, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 07685b6dff87e2247abb0194d48fe7c9, type: 3}
+    spiNameVN: {fileID: 21300000, guid: c82f714f35acd7245a38d988220e5c2b, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: t728j6390k
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: JJBX
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8DF3\u8D77\u6765"
+    name_en: TQL
+    name_vn: TQL
+    spine: {fileID: 11400000, guid: 29647e7af43ef044cbb384358790b95e, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 077bd2615a9b07b49a047b9bfeaa9143, type: 3}
+    spiNameEN: {fileID: 21300000, guid: b6f4a3b7f223ac446958d6800a9eda39, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 6244af09f90cc0e4196a9a4f550a1c20, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: r06h0650v5
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: TQL
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8DF3\u66F4\u9AD8"
+    name_en: TGG3
+    name_vn: TGG3
+    spine: {fileID: 11400000, guid: 7ba1118493e59ed45a5aee5a16d87d79, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: d85118da4832f4a4ba6f7aeb4fa5d38d, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 8020fa0f1e1b3c34c969f9195c33fa58, type: 3}
+    spiNameVN: {fileID: 21300000, guid: e5013d0ba5a0ee840b49b298d6cfc86a, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: qp6t7ja6k3
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: TGG3
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E94\u798F\u4E34\u95E8"
+    name_en: WFLM
+    name_vn: WFLM
+    spine: {fileID: 11400000, guid: 524ed63e928bca04b876772a38797617, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: e5821459a344af14a9e577f473a5ee78, type: 3}
+    spiNameEN: {fileID: 21300000, guid: a71bdc162db7ace41b442a355616758d, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 39ca795a500909b40b98d9a4ec29d8f2, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: vm9q1u07t5
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: WFLM
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u9E3F\u798F\u9F50\u5929"
+    name_en: HFQT
+    name_vn: HFQT
+    spine: {fileID: 11400000, guid: 8142af61322c1494292d249c9a50533f, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: a56007a3b66528e428c5d8c532686f21, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 10ff30ee0d12aff44a86930bf8d34174, type: 3}
+    spiNameVN: {fileID: 21300000, guid: ef64987d91604c641ba748190a08dcc3, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: 92x326459s
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: HFQT
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6B66\u5723"
+    name_en: WS
+    name_vn: WS
+    spine: {fileID: 11400000, guid: e46978f5f28ccdb44ad1c1fd0d69f7c7, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 620baf22200e94843876eb76c443c2b5, type: 3}
+    spiNameEN: {fileID: 21300000, guid: de65bcfb9ee7e92409d3597d51ab09c0, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 6d986146e9f962445bcc77f363350ce6, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: tugo8gthbc
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: WS
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5B99\u65AF"
+    name_en: ZS
+    name_vn: ZS
+    spine: {fileID: 11400000, guid: 30c06e5927079804e95d512f18fe2b85, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: fe26113f49253a04aa602d0d8f19c3b7, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 622da6a40442d014c83358bf70a81656, type: 3}
+    spiNameVN: {fileID: 21300000, guid: d3161caa817eb044da9be159d3365457, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: e3814j8en3
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: ZS
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u76F4\u5F0F\u8E66\u8FEA"
+    name_en: ZSBD
+    name_vn: ZSBD
+    spine: {fileID: 11400000, guid: 8c3e85d2c8e03e544a57f22c9c6e19a9, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 60c29d3a3b33806499a697d7389ed29f, type: 3}
+    spiNameEN: {fileID: 21300000, guid: c67b8f488d2e42b4d9c33c5dccc59ff8, type: 3}
+    spiNameVN: {fileID: 21300000, guid: cb19d42cc77069b45bb7f4f39b9ee6bf, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: jri72rsq21
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: ZSBD
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E00\u70AE\u6355\u9C7C"
+    name_en: YPBY
+    name_vn: YPBY
+    spine: {fileID: 11400000, guid: 8253aeab5998cb448a33699f0c2266bd, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 4b04dccb9025b924e8167d979f075f76, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 60d8f5b63fe7070409312bf877e0893a, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 199d67ddae4350646a743cb1b6daf0d0, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: x0a8o9lv84
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: YPBY
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8DF3\u8FC7\u6765"
+    name_en: TGL
+    name_vn: TGL
+    spine: {fileID: 11400000, guid: 8cf30eebfb6065d46bd9137b48a96d4f, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 72b5be745b1dd714fa2fc8f661aabc90, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 46a2f411e257b18409a196a08b8d3ac8, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 2984637f46707b6478fab5782b981210, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: v2wl0722b9
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: TGL
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u76F4\u5F0F\u6D2A\u798F\u9F50\u5929"
+    name_en: ZSHFQT
+    name_vn: ZSHFQT
+    spine: {fileID: 11400000, guid: 913f6c5b3f581bc4fb0646a3287d4d85, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 06a98beb14a4f5942ac38bd794886061, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 9c54c00bfb0c13442aac2ce7571be2dc, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 6ab56e1253cdcf244bb83adfb9655a02, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: a650sw70e3
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: ZSHFQT
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: CQ9
+    name_en: CQ9
+    name_vn: CQ9
+    spine: {fileID: 11400000, guid: b0bd4a6b933671a4ba9401d4cceccd4b, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 61bdd342889103b46b69c5c4383c59c6, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 61bdd342889103b46b69c5c4383c59c6, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 61bdd342889103b46b69c5c4383c59c6, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E1C\u65B9\u795E\u8D77"
+    name_en: DFSQ
+    name_vn: DFSQ
+    spine: {fileID: 11400000, guid: 04e7bb3aaab88ca42892505f9f5a283d, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 418887400f1143e42b8131f9817deeca, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 2d95f7798b0fb814098e83df9f535421, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 094651ed5bf644b498027badd1530da7, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: 78zk668s57
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: DFSQ
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u51B0\u96EA\u5973\u738B"
+    name_en: BXNW
+    name_vn: BXNW
+    spine: {fileID: 11400000, guid: b918880f73ab0424286f904d8043ece3, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 480753b8500b97e4185878c26d701320, type: 3}
+    spiNameEN: {fileID: 21300000, guid: bd4eca31381ce144bb68fe18542e12fa, type: 3}
+    spiNameVN: {fileID: 21300000, guid: fc2d625221724cb4db699fd2c70712b6, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: w3l2086nmi
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: BXNW
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u706B\u70E7\u8FDE\u73AF\u82392"
+    name_en: Fire Chibi 2
+    name_vn: "Ng\u1ECDn l\u1EEDa Chibi 2"
+    spine: {fileID: 11400000, guid: 29c1ded3e038bdf4e95d7eb9f00104ac, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 93abf380c810e6d4bb6c6a7680292b5c, type: 3}
+    spiNameEN: {fileID: 21300000, guid: d928dd50e7fe9b940bae832804f942d8, type: 3}
+    spiNameVN: {fileID: 21300000, guid: c7027017f715ffd48b6b22cb45a2a3f7, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: 520ci537uj
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: FireChibi2
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u91D1\u94B1\u6811"
+    name_en: Money Tree
+    name_vn: "C\xE2y H\xE1i Ra Ti\u1EC1n"
+    spine: {fileID: 11400000, guid: be5de45860385774e83f64c69b32b8bb, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: cc6452f49df22b149a629c097a0fe414, type: 3}
+    spiNameEN: {fileID: 21300000, guid: e9c8107bc8c3ff642a2351fd5c9b4572, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 19c00a8d4228fa04b8ff11db2ef07781, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: cy295e9ak2
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: MoneyTree
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u706B\u7206777"
+    name_en: Fire777
+    name_vn: "H\u1ECFa ho\u1EA1n 777"
+    spine: {fileID: 11400000, guid: 5b2af4954f4994c44b03cac2bb67af9a, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 54bfc54431c5dcf44886b16fbeb5f358, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 578c6405944e0c141b1862ff6e5e64d0, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 74aa008a06e79f54a86ee6222c3cce14, type: 3}
+    plat_type: cq9
+    game_type: 2
+    game_code: ls71n4fm48
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: Fire777
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u767E\u4EBA\u9AB0\u5B9D"
+    name_en: BRTB
+    name_vn: BRTB
+    spine: {fileID: 11400000, guid: b7034a6aae802024f85f8f33f7ca2ba1, type: 2}
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 21300000, guid: 26615479e156cf14cbc66e463ed20ac9, type: 3}
+    spiNameEN: {fileID: 21300000, guid: 3948e2783d0185d4bb7a26f547d75aae, type: 3}
+    spiNameVN: {fileID: 21300000, guid: 1207e7e379789824d809f8ce3fa37e45, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 1980
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: BRTB
+    RunStatus: 1
+    action: jin
+    package: jin
+    schema: jin

@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 52072113dfe84803b5a2d763a2c30730
+timeCreated: 1690386843
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BarrelGatlingGun_Narmol_15
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -51.00654, y: -51.0166}
+      - {x: -51.00654, y: 61.9834}
+      - {x: -42.00654, y: -75.0166}
+    - - {x: -40.00654, y: 74.9834}
+      - {x: -42.00654, y: -75.0166}
+      - {x: -51.00654, y: 61.9834}
+    - - {x: 36.99346, y: -75.0166}
+      - {x: -42.00654, y: -75.0166}
+      - {x: -40.00654, y: 74.9834}
+    - - {x: 33.99346, y: 74.9834}
+      - {x: 36.99346, y: -75.0166}
+      - {x: -40.00654, y: 74.9834}
+    - - {x: 50.99346, y: 42.9834}
+      - {x: 36.99346, y: -75.0166}
+      - {x: 33.99346, y: 74.9834}
+    - - {x: 50.99346, y: -7.016602}
+      - {x: 36.99346, y: -75.0166}
+      - {x: 50.99346, y: 42.9834}
+    physicsShape:    
+    - - {x: 36.99346, y: -29.0166}
+      - {x: 36.99346, y: 0.9833984}
+      - {x: 23.99346, y: 7.983398}
+      - {x: 37.99346, y: 4.983398}
+      - {x: 47.99346, y: 6.983398}
+      - {x: 49.99346, y: 13.9834}
+      - {x: 49.99346, y: 22.9834}
+      - {x: 32.99346, y: 27.9834}
+      - {x: 28.99346, y: 58.98339}
+      - {x: 24.99346, y: 71.9834}
+      - {x: 23.99346, y: 73.9834}
+      - {x: 15.99346, y: 73.9834}
+      - {x: 10.99346, y: 72.98339}
+      - {x: 9.993461, y: 59.98339}
+      - {x: -10.00654, y: 70.9834}
+      - {x: -17.00654, y: 73.9834}
+      - {x: -28.00654, y: 73.9834}
+      - {x: -31.00654, y: 58.98339}
+      - {x: -34.00654, y: 26.9834}
+      - {x: -47.00654, y: 23.9834}
+      - {x: -51.00654, y: 19.9834}
+      - {x: -51.00654, y: 14.9834}
+      - {x: -49.00653, y: 7.983398}
+      - {x: -45.00654, y: 5.983398}
+      - {x: -39.00654, y: 5.983398}
+      - {x: -25.00654, y: 7.983398}
+      - {x: -35.00654, y: 1.983398}
+      - {x: -34.00654, y: -21.0166}
+      - {x: -34.00654, y: -30.0166}
+      - {x: -26.00654, y: -56.0166}
+      - {x: -32.00654, y: -70.0166}
+      - {x: -22.00654, y: -74.0166}
+      - {x: 11.99346, y: -74.0166}
+      - {x: 27.99346, y: -68.0166}
+      - {x: 28.99346, y: -60.0166}
+      - {x: 23.99346, y: -53.0166}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

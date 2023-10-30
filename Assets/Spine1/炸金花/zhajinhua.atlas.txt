@@ -1,0 +1,41 @@
+
+zhajinhua.png
+size: 392,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dtzjih02
+  rotate: false
+  xy: 2, 9
+  size: 178, 159
+  orig: 179, 162
+  offset: 0, 2
+  index: -1
+img_dtzjih03
+  rotate: false
+  xy: 246, 59
+  size: 130, 109
+  orig: 131, 110
+  offset: 0, 1
+  index: -1
+img_dtzjih04
+  rotate: false
+  xy: 182, 33
+  size: 62, 135
+  orig: 64, 137
+  offset: 1, 2
+  index: -1
+img_dtzjih05
+  rotate: false
+  xy: 297, 9
+  size: 90, 48
+  orig: 92, 49
+  offset: 1, 1
+  index: -1
+img_dtzjih06
+  rotate: true
+  xy: 246, 2
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1

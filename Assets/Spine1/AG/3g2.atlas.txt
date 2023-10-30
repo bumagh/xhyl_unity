@@ -1,0 +1,20 @@
+
+3g2.png
+size: 556,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AG_logo_white_vert
+  rotate: false
+  xy: 2, 2
+  size: 398, 294
+  orig: 500, 500
+  offset: 52, 102
+  index: -1
+img_sg
+  rotate: false
+  xy: 402, 41
+  size: 150, 255
+  orig: 150, 255
+  offset: 0, 0
+  index: -1

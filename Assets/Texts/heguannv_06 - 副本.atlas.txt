@@ -1,0 +1,251 @@
+
+heguannv_06 - 副本.png
+size: 443,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11111106/dabi_L
+  rotate: false
+  xy: 358, 378
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: -1
+11111106/dabi_R
+  rotate: false
+  xy: 2, 190
+  size: 87, 189
+  orig: 87, 189
+  offset: 0, 0
+  index: -1
+11111106/eye_01
+  rotate: false
+  xy: 71, 6
+  size: 70, 30
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+11111106/eye_02
+  rotate: false
+  xy: 118, 381
+  size: 68, 26
+  orig: 68, 28
+  offset: 0, 0
+  index: -1
+11111106/face
+  rotate: true
+  xy: 91, 146
+  size: 99, 122
+  orig: 135, 178
+  offset: 0, 56
+  index: -1
+11111106/shenti
+  rotate: false
+  xy: 216, 548
+  size: 209, 212
+  orig: 209, 212
+  offset: 0, 0
+  index: -1
+11111106/shou_1L
+  rotate: false
+  xy: 288, 258
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+11111106/shou_1R
+  rotate: false
+  xy: 197, 6
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+11111106/shou_2L
+  rotate: false
+  xy: 343, 380
+  size: 13, 42
+  orig: 13, 42
+  offset: 0, 0
+  index: -1
+11111106/shou_2R
+  rotate: true
+  xy: 271, 46
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+11111106/shou_3L
+  rotate: true
+  xy: 2, 6
+  size: 16, 45
+  orig: 16, 45
+  offset: 0, 0
+  index: -1
+11111106/shou_3R
+  rotate: true
+  xy: 338, 90
+  size: 44, 82
+  orig: 44, 82
+  offset: 0, 0
+  index: -1
+11111106/shou_4L
+  rotate: false
+  xy: 291, 166
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+11111106/shou_4R
+  rotate: false
+  xy: 71, 148
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+11111106/toufa_01
+  rotate: false
+  xy: 271, 71
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+11111106/toufa_010
+  rotate: false
+  xy: 71, 38
+  size: 95, 106
+  orig: 96, 106
+  offset: 1, 0
+  index: -1
+11111106/toufa_011
+  rotate: true
+  xy: 422, 88
+  size: 46, 19
+  orig: 47, 20
+  offset: 1, 1
+  index: -1
+11111106/toufa_012
+  rotate: true
+  xy: 338, 44
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+11111106/toufa_013
+  rotate: true
+  xy: 216, 355
+  size: 67, 125
+  orig: 70, 137
+  offset: 0, 0
+  index: -1
+11111106/toufa_014
+  rotate: false
+  xy: 203, 249
+  size: 83, 104
+  orig: 83, 104
+  offset: 0, 0
+  index: -1
+11111106/toufa_015
+  rotate: true
+  xy: 143, 5
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+11111106/toufa_016
+  rotate: false
+  xy: 216, 424
+  size: 140, 122
+  orig: 140, 122
+  offset: 0, 0
+  index: -1
+11111106/toufa_02
+  rotate: true
+  xy: 356, 296
+  size: 80, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+11111106/toufa_03
+  rotate: false
+  xy: 168, 38
+  size: 58, 106
+  orig: 58, 106
+  offset: 0, 0
+  index: -1
+11111106/toufa_04
+  rotate: false
+  xy: 228, 44
+  size: 41, 113
+  orig: 44, 113
+  offset: 0, 0
+  index: -1
+11111106/toufa_05
+  rotate: true
+  xy: 238, 2
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+11111106/toufa_06
+  rotate: false
+  xy: 215, 159
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+11111106/toufa_07
+  rotate: false
+  xy: 356, 213
+  size: 78, 81
+  orig: 78, 81
+  offset: 0, 0
+  index: -1
+11111106/toufa_08
+  rotate: true
+  xy: 306, 4
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+11111106/toufa_09
+  rotate: true
+  xy: 356, 136
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+11111106/tui_L
+  rotate: false
+  xy: 2, 381
+  size: 114, 648
+  orig: 114, 648
+  offset: 0, 0
+  index: -1
+11111106/tui_R
+  rotate: false
+  xy: 118, 409
+  size: 96, 620
+  orig: 96, 620
+  offset: 0, 0
+  index: -1
+11111106/xiaobi_R
+  rotate: false
+  xy: 91, 247
+  size: 110, 132
+  orig: 110, 132
+  offset: 0, 0
+  index: -1
+11111106/xiaobi_R_0
+  rotate: false
+  xy: 2, 24
+  size: 67, 164
+  orig: 67, 164
+  offset: 0, 0
+  index: -1
+11111106/yao
+  rotate: false
+  xy: 216, 762
+  size: 214, 267
+  orig: 214, 442
+  offset: 0, 0
+  index: -1

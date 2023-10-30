@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591631cfb05f3e38d71e44b395231202, type: 3}
+  m_Name: "Config1"
+  m_EditorClassIdentifier: 
+  list:
+  - name_cn: "\u725B\u9B54\u738B"
+    name_en: "Demon King"
+    id: 4
+    rankType: 6
+    spriteIcon: {fileID: 21300000, guid: 01caef43a33443cc9ed1b24410f822b8, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "bulletGame"
+    RunStatus: 1
+    action: "com.xinhao.toad.MainActivity"
+    package: "ToadFish"
+    schema: "ToadFlshing:\x2f\x2f"
+  - name_cn: "\u6447\u94B1\u6811"
+    name_en: "Money Tree"
+    id: 2
+    rankType: 4
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "bulletGame"
+    RunStatus: 1
+    action: "com.xinhao.likuifish.MainActivity"
+    package: "OverFish"
+    schema: "LlKuiFishing:\x2f\x2f"
+  - name_cn: "\u5927\u95F9\u5929\u5BAB"
+    name_en: "heaven"
+    id: 92
+    rankType: 43
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "FishKingGame"
+    RunStatus: 1
+    action: "com.xingli.FishKinglaction"
+    package: "com.xingli.FishKing"
+    schema: "FishKing:\x2f\x2f"
+  - name_cn: "\u5E78\u8FD0\u516D\u72EE"
+    name_en: "Lucky Lion"
+    id: 1
+    rankType: 3
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "luckGame"
+    RunStatus: 1
+    action: "com.xingli.lion_lion"
+    package: "com.xingli.lion"
+    schema: "LuckyLlon:\x2f\x2f"
+  - name_cn: "\u5954\u9A70\u5B9D\u9A6C"
+    name_en: "Benz BMW"
+    id: 52
+    rankType: 42
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "fishGame"
+    RunStatus: 1
+    action: "com.xingli.fish_fish"
+    package: "com.xingli.fish"
+    schema: "MoneyFish"
+  - name_cn: "\u5355\u6311"
+    name_en: "One Poker"
+    id: 3
+    rankType: 5
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "cardGame"
+    RunStatus: 1
+    action: "com.xingli.dantiao.MainActivity"
+    package: "DanTiao"
+    schema: "DanTlao:\x2f\x2f"
+  - name_cn: "\u91D1\u9CA8\u94F6\u9CA8"
+    name_en: "Gold Sand"
+    id: 43
+    rankType: 106
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "bulletGame"
+    RunStatus: 1
+    action: "com.xingli.overfish_fish"
+    package: "com.xingli.overfish"
+    schema: "WanFlsh:\x2f\x2f"
+  - name_cn: "QQ\u7F8E\u4EBA\u9C7C"
+    name_en: "QQ Beauty"
+    id: 5
+    rankType: 7
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "mermaidGame"
+    RunStatus: 1
+    action: "com.xingli.beautyfish_fish"
+    package: "com.xingli.beautyfish"
+    schema: "BeautyFlsh:\x2f\x2f"
+  - name_cn: "\u6C34\u6D52\u4F20"
+    name_en: "Water Margin"
+    id: 8
+    rankType: 10
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: "WaterGame"
+    RunStatus: 1
+    action: "com.xingli.waterlaction"
+    package: "com.xingli.water"
+    schema: "WaterMargln:\x2f\x2f"
+  - name_cn: "\u674E\u9035\u5288\u9C7C"
+    name_en: "LiKui Fish"
+    id: 21
+    rankType: 33
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: "WaterGame"
+    RunStatus: 1
+    action: "com.xingli.waterlaction"
+    package: "com.xingli.water"
+    schema: "WaterMargln:\x2f\x2f"
+  - name_cn: "\u91D1\u87FE\u6355\u9C7C"
+    name_en: "Toad Fish"
+    id: 32
+    rankType: 34
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: "WaterGame"
+    RunStatus: 1
+    action: "com.xingli.waterlaction"
+    package: "com.xingli.water"
+    schema: "WaterMargln:\x2f\x2f"
+  - name_cn: "\u91D1\u8C61\u9001\u798F"
+    name_en: "Golden Eleph"
+    id: 39
+    rankType: 35
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: "WaterGame"
+    RunStatus: 1
+    action: "com.xingli.waterlaction"
+    package: "com.xingli.water"
+    schema: "WaterMargln:\x2f\x2f"
+  - name_cn: "\u9F99\u864E\u6597"
+    name_en: "LHD"
+    id: 39
+    rankType: 36
+    spriteIcon: {fileID: 0}
+    spiName: {fileID: 0}
+    plat_type: 
+    game_type: 
+    game_code: "dating"
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: "WaterGame"
+    RunStatus: 1
+    action: "com.xingli.waterlaction"
+    package: "com.xingli.water"
+    schema: "WaterMargln:\x2f\x2f"

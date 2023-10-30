@@ -1,0 +1,20 @@
+
+sss.png
+size: 256,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+630girl
+  rotate: true
+  xy: 2, 2
+  size: 154, 184
+  orig: 154, 210
+  offset: 0, 21
+  index: -1
+lhh
+  rotate: true
+  xy: 188, 75
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

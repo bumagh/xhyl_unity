@@ -1,0 +1,27 @@
+
+sen.png
+size: 624,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BU18_SunErNiang
+  rotate: true
+  xy: 2, 2
+  size: 435, 451
+  orig: 500, 500
+  offset: 15, 49
+  index: -1
+CQ9_Icon
+  rotate: false
+  xy: 455, 13
+  size: 100, 36
+  orig: 100, 100
+  offset: 0, 38
+  index: -1
+box1
+  rotate: true
+  xy: 455, 51
+  size: 386, 164
+  orig: 386, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,43 @@
+namespace GameCommon
+{
+	public enum STMF_FISH_TYPE
+	{
+		Fish_Shrimp,
+		Fish_Grass,
+		Fish_Zebra,
+		Fish_BigEars,
+		Fish_YellowSpot,
+		Fish_Ugly,
+		Fish_Hedgehog,
+		Fish_BlueAlgae,
+		Fish_Lamp,
+		Fish_Turtle,
+		Fish_Trailer,
+		Fish_Butterfly,
+		Fish_Beauty,
+		Fish_Arrow,
+		Fish_Bat,
+		Fish_SilverShark,
+		Fish_GoldenShark,
+		Fish_GreenDragon,
+		Fish_SilverDragon,
+		Fish_GoldenDragon,
+		Fish_Same_Shrimp,
+		Fish_Same_Grass,
+		Fish_Same_Zebra,
+		Fish_Same_BigEars,
+		Fish_Same_YellowSpot,
+		Fish_Same_Ugly,
+		Fish_Same_Hedgehog,
+		Fish_Same_BlueAlgae,
+		Fish_Same_Lamp,
+		Fish_Same_Turtle,
+		Fish_LimitedBomb,
+		Fish_AllBomb,
+		Fish_CoralReefs,
+		Fish_DragonBeauty_Group,
+		Fish_GoldenArrow_Group,
+		Fish_Knife_Butterfly_Group,
+		Fish_TYPE_NONE
+	}
+}

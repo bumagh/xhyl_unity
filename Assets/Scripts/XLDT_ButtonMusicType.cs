@@ -1,0 +1,19 @@
+public enum XLDT_ButtonMusicType
+{
+	getCoin,
+	getTestCoin,
+	changeTable,
+	error,
+	common,
+	coinUp,
+	YaZhu,
+	bonus,
+	counttime,
+	counttime0,
+	publiccard,
+	awardNum,
+	awardColor,
+	startYZ,
+	stopYZ,
+	backgound
+}

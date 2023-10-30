@@ -1,0 +1,19 @@
+public enum Gamestate
+{
+	Init,
+	InitIfo,
+	Enter,
+	Spin,
+	SendBet,
+	SendBetFail,
+	GetBet,
+	Result,
+	LineStop,
+	AllStop,
+	Canspin,
+	IsGamble,
+	IsGambleEnd,
+	IsFree,
+	IsFreeEnd,
+	SetLanguage
+}

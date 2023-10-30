@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 440bf01f5492465ca6fc0d6524906037
+timeCreated: 1690386841
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fish_Flounder_Life_1.png
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_Flounder_Life_1.png
+      rect:
+        serializedVersion: 2
+        x: 329.0129
+        y: 336.0268
+        width: 76.94834
+        height: 66.89713
+      alignment: 9
+      pivot: {x: 0.5066658, y: 0.5003688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.48708, y: -23.47533}
+        - {x: -38.48708, y: 8.52467}
+        - {x: -5.48708, y: -33.47533}
+      - - {x: -36.48708, y: 17.52467}
+        - {x: -5.48708, y: -33.47533}
+        - {x: -38.48708, y: 8.52467}
+      - - {x: -5.48708, y: 33.52467}
+        - {x: -5.48708, y: -33.47533}
+        - {x: -36.48708, y: 17.52467}
+      - - {x: 34.51292, y: -33.47533}
+        - {x: -5.48708, y: -33.47533}
+        - {x: -5.48708, y: 33.52467}
+      - - {x: 26.51292, y: 33.52467}
+        - {x: 34.51292, y: -33.47533}
+        - {x: -5.48708, y: 33.52467}
+      - - {x: 38.51292, y: 5.52467}
+        - {x: 34.51292, y: -33.47533}
+        - {x: 26.51292, y: 33.52467}
+      - - {x: 38.51292, y: -25.47533}
+        - {x: 34.51292, y: -33.47533}
+        - {x: 38.51292, y: 5.52467}
+      physicsShape:      
+      - - {x: 23.51292, y: 16.52467}
+        - {x: 14.51292, y: 19.52467}
+        - {x: 2.51292, y: 19.52467}
+        - {x: -21.48708, y: 5.52467}
+        - {x: -26.48708, y: 5.52467}
+        - {x: -29.48708, y: -4.47533}
+        - {x: -29.48708, y: -10.47533}
+        - {x: -0.4870796, y: -26.47533}
+        - {x: 18.51292, y: -26.47533}
+        - {x: 37.51292, y: -11.47533}
+        - {x: 37.51292, y: -3.47533}
+        - {x: 32.51292, y: 10.52467}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

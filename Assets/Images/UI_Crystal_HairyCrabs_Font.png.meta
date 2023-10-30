@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 75bdc4fe175648b58b8d6baa4a4e6d08
+timeCreated: 1690386841
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_Crystal_HairyCrabs_Font
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline:
+    - - {x: -76, y: -74}
+      - {x: -76, y: 48}
+      - {x: 66, y: -74}
+    - - {x: -46, y: 74}
+      - {x: 66, y: -74}
+      - {x: -76, y: 48}
+    - - {x: 52, y: 74}
+      - {x: 66, y: -74}
+      - {x: -46, y: 74}
+    - - {x: 76, y: 47}
+      - {x: 66, y: -74}
+      - {x: 52, y: 74}
+    - - {x: 76, y: -60}
+      - {x: 66, y: -74}
+      - {x: 76, y: 47}
+    physicsShape:    
+    - - {x: -8, y: -57}
+      - {x: 9.999999, y: -57}
+      - {x: 18, y: -65}
+      - {x: 33, y: -63}
+      - {x: 38, y: -66.99999}
+      - {x: 42, y: -68}
+      - {x: 50, y: -68}
+      - {x: 64, y: -52}
+      - {x: 62, y: -42}
+      - {x: 68, y: -36}
+      - {x: 68, y: -18}
+      - {x: 66, y: -9}
+      - {x: 59, y: 5}
+      - {x: 54, y: 28}
+      - {x: 45, y: 39}
+      - {x: 19, y: 54}
+      - {x: 11, y: 56}
+      - {x: 9, y: 54}
+      - {x: 9.999999, y: 51}
+      - {x: 32, y: 37}
+      - {x: 31, y: 25}
+      - {x: 21, y: 1}
+      - {x: 19, y: -7}
+      - {x: 9.999999, y: 0}
+      - {x: 0, y: 7}
+      - {x: -17, y: -3}
+      - {x: -33, y: 26}
+      - {x: -29, y: 40}
+      - {x: -11, y: 51}
+      - {x: -12, y: 54}
+      - {x: -14, y: 56}
+      - {x: -17, y: 56}
+      - {x: -30, y: 49}
+      - {x: -46, y: 38}
+      - {x: -54, y: 27}
+      - {x: -53, y: 25}
+      - {x: -51, y: 23}
+      - {x: -52, y: 23}
+      - {x: -55, y: 22}
+      - {x: -56, y: 12}
+      - {x: -65, y: -7}
+      - {x: -66.99999, y: -21}
+      - {x: -66.99999, y: -37}
+      - {x: -62, y: -42}
+      - {x: -63, y: -53}
+      - {x: -55, y: -62}
+      - {x: -48, y: -68}
+      - {x: -37, y: -68}
+      - {x: -32, y: -65}
+      - {x: -24, y: -64}
+      - {x: -14, y: -62}
+      - {x: 0, y: -9.999999}
+      - {x: -3, y: -7}
+      - {x: 1, y: -3}
+      - {x: 0, y: -2}
+      - {x: -1, y: -3}
+      - {x: 3, y: -7}
+      - {x: 0, y: -9.999999}
+      - {x: 0, y: -11}
+      - {x: -1, y: 12}
+      - {x: -3, y: 9.999999}
+      - {x: -3, y: 6}
+      - {x: -1, y: 5}
+      - {x: 3, y: 5}
+      - {x: 4, y: 6}
+      - {x: 4, y: 11}
+      - {x: 3, y: 12}
+      - {x: -9, y: 57}
+      - {x: -9.999999, y: 55}
+      - {x: -9, y: 52}
+      - {x: -2, y: 52}
+      - {x: 1, y: 53}
+      - {x: 1, y: 56}
+      - {x: -1, y: 57}
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

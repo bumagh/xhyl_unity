@@ -1,0 +1,20 @@
+
+qzpj.png
+size: 268,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+730girl
+  rotate: true
+  xy: 2, 2
+  size: 133, 196
+  orig: 154, 210
+  offset: 10, 14
+  index: -1
+lhh
+  rotate: true
+  xy: 200, 54
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

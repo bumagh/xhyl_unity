@@ -1,0 +1,20 @@
+
+brgb.png
+size: 312,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-1980
+  rotate: true
+  xy: 2, 2
+  size: 217, 241
+  orig: 218, 241
+  offset: 1, 0
+  index: -1
+lhh
+  rotate: true
+  xy: 245, 138
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

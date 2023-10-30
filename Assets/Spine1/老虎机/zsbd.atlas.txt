@@ -1,0 +1,27 @@
+
+zsbd.png
+size: 640,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+137_DiscoNight
+  rotate: true
+  xy: 2, 2
+  size: 460, 469
+  orig: 500, 500
+  offset: 14, 19
+  index: -1
+CQ9_Icon
+  rotate: false
+  xy: 473, 38
+  size: 100, 36
+  orig: 100, 100
+  offset: 0, 38
+  index: -1
+box1
+  rotate: true
+  xy: 473, 76
+  size: 386, 164
+  orig: 386, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+{
+"skeleton": {
+	"hash": "ngOcBtPRxhSb11zonfyE+EdyFh0",
+	"spine": "3.8.83",
+	"x": -317.14,
+	"y": -235.1,
+	"width": 668.2,
+	"height": 572,
+	"images": "./iamges/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 18.29, "y": -117.57, "scaleX": 2.6, "scaleY": 2.6 },
+	{ "name": "bone2", "parent": "root", "x": -155.2, "y": -27.44, "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "girl-650", "bone": "bone", "attachment": "girl-650" },
+	{ "name": "girl-650-asset", "bone": "bone", "attachment": "girl-650-asset" },
+	{ "name": "lhh", "bone": "bone2", "attachment": "lhh" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"girl-650": {
+				"girl-650": { "x": -0.51, "y": 64.8, "width": 257, "height": 220 }
+			},
+			"girl-650-asset": {
+				"girl-650-asset": { "x": 42.99, "y": 49.57, "width": 137, "height": 138 }
+			},
+			"lhh": {
+				"lhh": { "width": 81, "height": 63 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone2": {
+				"scale": [
+					{ "time": 0.6667 },
+					{ "time": 0.8333, "x": 0.15 },
+					{ "time": 1 },
+					{ "time": 1.1667, "x": 0.15 },
+					{ "time": 1.3333 }
+				]
+			},
+			"bone": {
+				"scale": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": 1.077, "y": 1.077, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			}
+		}
+	}
+}
+}

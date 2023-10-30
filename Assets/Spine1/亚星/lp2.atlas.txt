@@ -1,0 +1,20 @@
+
+lp2.png
+size: 456,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_005
+  rotate: true
+  xy: 290, 3
+  size: 149, 161
+  orig: 150, 161
+  offset: 0, 0
+  index: -1
+yaxing_logo
+  rotate: false
+  xy: 2, 2
+  size: 286, 150
+  orig: 300, 150
+  offset: 7, 0
+  index: -1

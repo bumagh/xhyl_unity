@@ -1,0 +1,11 @@
+namespace STDT_GameConfig
+{
+	public enum XLDT_POKER_COLOR
+	{
+		POKER_SPADE,
+		POKER_HEART,
+		POKER_CLUB,
+		POKER_DIAMOND,
+		PORKER_JOKER
+	}
+}

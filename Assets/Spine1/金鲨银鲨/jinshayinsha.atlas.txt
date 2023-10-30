@@ -1,0 +1,34 @@
+
+jinshayinsha.png
+size: 332,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dhjsys1
+  rotate: false
+  xy: 176, 43
+  size: 152, 136
+  orig: 152, 136
+  offset: 0, 0
+  index: -1
+img_dhjsys2
+  rotate: false
+  xy: 2, 14
+  size: 172, 165
+  orig: 172, 165
+  offset: 0, 0
+  index: -1
+img_dhjsys3
+  rotate: false
+  xy: 231, 2
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+img_dhjsys4
+  rotate: false
+  xy: 176, 2
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1

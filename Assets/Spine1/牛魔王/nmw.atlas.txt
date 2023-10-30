@@ -1,0 +1,27 @@
+
+nmw.png
+size: 260,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dhnmw1
+  rotate: false
+  xy: 2, 2
+  size: 185, 162
+  orig: 185, 162
+  offset: 0, 0
+  index: -1
+img_dhnmw2
+  rotate: true
+  xy: 189, 56
+  size: 108, 67
+  orig: 108, 67
+  offset: 0, 0
+  index: -1
+img_dhnmw3
+  rotate: false
+  xy: 189, 16
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1

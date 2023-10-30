@@ -1,0 +1,20 @@
+
+ddzu.png
+size: 264,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+610boy
+  rotate: true
+  xy: 2, 2
+  size: 144, 195
+  orig: 202, 210
+  offset: 29, 14
+  index: -1
+lhh
+  rotate: true
+  xy: 199, 65
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1

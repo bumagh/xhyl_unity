@@ -1,0 +1,27 @@
+
+shizi.png
+size: 216,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dtls02
+  rotate: true
+  xy: 2, 2
+  size: 160, 166
+  orig: 160, 166
+  offset: 0, 0
+  index: -1
+img_dtls03
+  rotate: false
+  xy: 170, 109
+  size: 44, 53
+  orig: 46, 55
+  offset: 1, 1
+  index: -1
+img_dtls04
+  rotate: false
+  xy: 170, 80
+  size: 37, 27
+  orig: 39, 29
+  offset: 1, 1
+  index: -1

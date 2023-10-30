@@ -1,0 +1,55 @@
+
+jinqianshu.png
+size: 300,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dhyqs1
+  rotate: false
+  xy: 2, 2
+  size: 220, 156
+  orig: 220, 163
+  offset: 0, 7
+  index: -1
+img_dhyqs2
+  rotate: true
+  xy: 224, 2
+  size: 22, 29
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+img_dhyqs3
+  rotate: true
+  xy: 224, 26
+  size: 10, 58
+  orig: 10, 60
+  offset: 0, 2
+  index: -1
+img_dhyqs4
+  rotate: false
+  xy: 286, 105
+  size: 10, 53
+  orig: 11, 53
+  offset: 0, 0
+  index: -1
+img_dhyqs5
+  rotate: false
+  xy: 286, 64
+  size: 6, 39
+  orig: 6, 44
+  offset: 0, 5
+  index: -1
+img_dhyqs6
+  rotate: true
+  xy: 255, 17
+  size: 7, 36
+  orig: 10, 39
+  offset: 3, 3
+  index: -1
+img_dhyqs7
+  rotate: true
+  xy: 224, 38
+  size: 120, 60
+  orig: 144, 78
+  offset: 22, 18
+  index: -1

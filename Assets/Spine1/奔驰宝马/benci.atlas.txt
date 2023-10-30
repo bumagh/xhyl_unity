@@ -1,0 +1,34 @@
+
+benci.png
+size: 300,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_dtbcbm02
+  rotate: false
+  xy: 2, 2
+  size: 204, 138
+  orig: 213, 138
+  offset: 0, 0
+  index: -1
+img_dtbcbm03
+  rotate: true
+  xy: 208, 23
+  size: 117, 30
+  orig: 124, 34
+  offset: 3, 2
+  index: -1
+img_dtbcbm04
+  rotate: false
+  xy: 240, 34
+  size: 32, 42
+  orig: 34, 45
+  offset: 1, 1
+  index: -1
+img_dtbcbm05
+  rotate: true
+  xy: 240, 78
+  size: 62, 56
+  orig: 66, 60
+  offset: 2, 2
+  index: -1

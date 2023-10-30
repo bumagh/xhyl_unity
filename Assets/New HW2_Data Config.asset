@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f578bcc5e94f1d8f89ce048a4dc3e8, type: 3}
+  m_Name: New HW2_Data Config
+  m_EditorClassIdentifier: 
+  IP: 
+  Port: 0
+  Key_1: 
+  Key_2: 
+  Key_3: 
+  Key_4: 
+  Key_5: 
+  Key_6: 
+  Key_7: 
+  Key_8: 
+  Key_9: 
+  Key_a: 
+  Key_b: 
+  Key_c: 
+  KeyChars: 

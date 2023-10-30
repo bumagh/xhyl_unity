@@ -1,0 +1,848 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591631cfb05f3e38d71e44b395231202, type: 3}
+  m_Name: XHYL
+  m_EditorClassIdentifier: 
+  list:
+  - name_cn: "\u6447\u94B1\u6811"
+    name_en: Money Tree
+    id: 2
+    rankType: 23
+    spriteIcon: {fileID: 21300000, guid: f47b136006054905acc42e948230d56f, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: fishGame
+    RunStatus: 1
+    action: com.xingll.fish_fish
+    package: com.xingll.fish
+    schema: MoneyFish://
+  - name_cn: "\u725B\u9B54\u738B"
+    name_en: Bull King
+    id: 4
+    rankType: 6
+    spriteIcon: {fileID: 21300000, guid: a1833e9776994e1d874325a3735550c3, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: bulletGame
+    RunStatus: 1
+    action: com.xingli.overfish_fish
+    package: com.xingli.overfish
+    schema: MoneyFish://
+  - name_cn: "QQ\u7F8E\u4EBA\u9C7C"
+    name_en: 'QQMermaid '
+    id: 5
+    rankType: 7
+    spriteIcon: {fileID: 21300000, guid: 9c3f44d775b3433b82fdbcd7bbc10c51, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: mermaidGame
+    RunStatus: 1
+    action: com.xingli.beautyfish_fish
+    package: com.xingli.beautyfish
+    schema: MoneyFish://
+  - name_cn: "\u674E\u9035\u5288\u9C7C"
+    name_en: Likui Split Fish
+    id: 21
+    rankType: 23
+    spriteIcon: {fileID: 21300000, guid: 19fb2d9a6cda43ce909d3e2ad15c349f, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: liKuiGame
+    RunStatus: 1
+    action: com.xingli.likuifish.MainActivity211
+    package: OverFish2112
+    schema: LlKuiFishing://2110
+  - name_cn: "\u91D1\u87FE\u6355\u9C7C"
+    name_en: ToadFish388
+    id: 38
+    rankType: 1
+    spriteIcon: {fileID: 21300000, guid: 7748b169b79c4bdcab4d2b194b179fd8, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: toadGame
+    RunStatus: 1
+    action: jin
+    package: todfish385
+    schema: toad384
+  - name_cn: "\u5E78\u8FD0\u516D\u72EE"
+    name_en: Lucky Lion
+    id: 1
+    rankType: 3
+    spriteIcon: {fileID: 21300000, guid: f59f57c6c4184e9d9c9b336f8a3c1677, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: luckGame
+    RunStatus: 1
+    action: com.xingli.lion_lion
+    package: com.xingli.lion
+    schema: LuckyLion://
+  - name_cn: "\u5355\u6311"
+    name_en: DanTiao
+    id: 3
+    rankType: 5
+    spriteIcon: {fileID: 21300000, guid: b8c2b597b8354378b01a89cbf8b9ed6e, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: cardGame
+    RunStatus: 1
+    action: com.xingli.dantiao.MainActivity
+    package: com.xingli.dantiao
+    schema: DanTiao://
+  - name_cn: "\u6C34\u6D52\u4F20"
+    name_en: Water Margin
+    id: 8
+    rankType: 10
+    spriteIcon: {fileID: 21300000, guid: 57f966abcbe14005a187c8e252c58e6d, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: WaterGame
+    RunStatus: 1
+    action: com.xingli.waterlaction
+    package: com.xingli.water
+    schema: WaterMargin://
+  - name_cn: "\u5927\u95F9\u5929\u5BAB"
+    name_en: DNTG
+    id: 92
+    rankType: 911
+    spriteIcon: {fileID: 21300000, guid: 7b6c5c801db2479b8165b3493bd9643d, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: heavenGame
+    RunStatus: 0
+    action: DN922
+    package: DN9222
+    schema: DN92222
+  - name_cn: "\u5954\u9A70\u5B9D\u9A6C"
+    name_en: BCBMao
+    id: 52
+    rankType: 15
+    spriteIcon: {fileID: 21300000, guid: 4b0ef982a6f34883b9259312f20002ee, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: benzBmwGame
+    RunStatus: 1
+    action: BCBMao1
+    package: BCBMao2
+    schema: BCBMao3
+  - name_cn: "\u91D1\u6C99\u94F6\u6C99"
+    name_en: JSYS
+    id: 43
+    rankType: 14
+    spriteIcon: {fileID: 21300000, guid: c208ef89c6da4eb2ab23f3f3fe3a0dda, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: sharkGame
+    RunStatus: 1
+    action: jin
+    package: JSYS43
+    schema: jin
+  - name_cn: "\u9F99\u864E\u6597"
+    name_en: dragonTigerGame
+    id: 103
+    rankType: 33
+    spriteIcon: {fileID: 21300000, guid: 0b5e37af8c2e417e8714d8c6d286d4d5, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: dragonTigerGame
+    RunStatus: 1
+    action: lhd3332
+    package: lhd3332
+    schema: lhd3332
+  - name_cn: "\u6C34\u679C\u673A"
+    name_en: SGJ
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 9fe74906023449a2bbea4494075eddce, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: jin
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u62A2\u5E84\u725B\u725B"
+    name_en: QZNN
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 12a3dfb7e63e4c43af6092742e61cd2c, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 1
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: jin
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u70B8\u91D1\u82B1"
+    name_en: ZJH
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 9a089a084b6a4a4dbec5c783b3969563, type: 3}
+    spiName: {fileID: 0}
+    plat_type: 38
+    game_type: 6
+    game_code: 220
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6B27\u6D32\u5385\u767E\u5BB6\u4E50"
+    name_en: OZTBJL
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 0b4b39ad70584b22b4646692f193d242, type: 3}
+    spiName: {fileID: 21300000, guid: faf61bb6bc174fe69a70bb8b7bcbe4f7, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: live
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: AsiaGaming
+    name_en: AsiaGaming
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 1343ba6c8e054e9eae1a7fa54f5e2201, type: 3}
+    spiName: {fileID: 21300000, guid: 7e7db67d0dc840528e5c7d3fa7cb4e26, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: live
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u62BC\u5B9D\u62A2\u5E84\u725B\u725B"
+    name_en: NN
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 674846c1f4a84d2e89738aa8b296f450, type: 3}
+    spiName: {fileID: 21300000, guid: 7db0c73db44b488297f9b2f2dc6550fe, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 840
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u9F99\u864E"
+    name_en: dragonTigerGame2
+    id: 11
+    rankType: 3333
+    spriteIcon: {fileID: 21300000, guid: 410da319ba2d42f499517f3e09e21fdd, type: 3}
+    spiName: {fileID: 21300000, guid: 637bccc081284add8bfaf36a1b527f96, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: dragonTigerGame2
+    RunStatus: 0
+    action: LHd33
+    package: LHd33
+    schema: LHd33
+  - name_cn: "21\u70B9"
+    name_en: 21D
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 65fa2993acc9420d806736d7a1daa398, type: 3}
+    spiName: {fileID: 21300000, guid: c67c291576f34c4dbfea3904e94df287, type: 3}
+    plat_type: 1
+    game_type: 6
+    game_code: 33
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u65D7\u8230\u56FD\u9645\u5385"
+    name_en: QJGJT
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 65fa2993acc9420d806736d7a1daa398, type: 3}
+    spiName: {fileID: 21300000, guid: 08a823cb26334375b814cec1eb40d4d9, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: live
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u591A\u53F0"
+    name_en: DT
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 89ef76ded37047cdaf2692c003451b09, type: 3}
+    spiName: {fileID: 21300000, guid: 3e55a77a36d04018a5d8e4690d9218f1, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: live
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u725B\u725B2"
+    name_en: NN2
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: a08b099d5f4144fc96f93608e105f443, type: 3}
+    spiName: {fileID: 21300000, guid: 2a0a2df44b5a4748be28e90853095e9b, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: live
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E8C\u516B\u6760"
+    name_en: EBG
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 92d2976cffd34d87ac169bbdad703e86, type: 3}
+    spiName: {fileID: 21300000, guid: 3bf19a3af0e24bba8b2f620db5f64df5, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 720
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E09\u516C"
+    name_en: SG
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: c7eb1a7d3a844c9c9ee9ca9d286979f3, type: 3}
+    spiName: {fileID: 21300000, guid: cd5a6a9c016545eeb43c519e47d29539, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 860
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u901A\u6BD4\u725B\u725B"
+    name_en: TBNN
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 990f0bd15d8f4f9eae138d646e54e507, type: 3}
+    spiName: {fileID: 21300000, guid: 357fb8c08d88468cbc76b1577273c994, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 870
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u62A2\u5E84\u724C\u4E5D"
+    name_en: QZPJ
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: a246ac8b06474969b4421f992e97a252, type: 3}
+    spiName: {fileID: 21300000, guid: 62645e52353c4a3db5ec2b04efad08fd, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 730
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6597\u5730\u4E3B"
+    name_en: DDZ
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: d6b0c8de628c4de9834bf3a170a81a22, type: 3}
+    spiName: {fileID: 21300000, guid: ba222cd1af534a8d81107e65ff0f81f4, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 610
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u767E\u4EBA\u725B\u725B"
+    name_en: BRNN
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 363f27b51c2840518e375295dc93c2a8, type: 3}
+    spiName: {fileID: 21300000, guid: 98065a043ea94b4fb409f088c6dd4616, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 930
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8840\u6D41\u6210\u6CB3"
+    name_en: XLCH
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 2016dc7c0e90458eac6f820c0afdd543, type: 3}
+    spiName: {fileID: 21300000, guid: e10a5f43934943d4832a22339285598d, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 650
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E8C\u4EBA\u9EBB\u5C06"
+    name_en: ERMJ
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 81cc01974283428cb337235f4dae7f54, type: 3}
+    spiName: {fileID: 21300000, guid: e6fdc69eba554ca98b444384d159ae67, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 740
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5355\u6311\u725B\u725B"
+    name_en: DTNN
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 4c52937c5cb34eac9cc2350c3613074a, type: 3}
+    spiName: {fileID: 21300000, guid: b0cbbf996c0d483782293e008a70196d, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 1810
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u9C7C\u867E\u87F9"
+    name_en: YXX
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 2016dc7c0e90458eac6f820c0afdd543, type: 3}
+    spiName: {fileID: 21300000, guid: d4e9725603104ba0a11638e417c6c77c, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 1930
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6781\u901F\u70B8\u91D1\u82B1"
+    name_en: JXZJH
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 7a7d2e5b2f8c4370b617f6870e6ba23b, type: 3}
+    spiName: {fileID: 21300000, guid: ce15b2ab9d994184a45042a609051dca, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 230
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5341\u4E09\u6C34"
+    name_en: SSS
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 138270b50b3f4cc6aeb69ee3555cc2c0, type: 3}
+    spiName: {fileID: 21300000, guid: b201968721664df7a617bbaf69431137, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 630
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u767E\u5BB6\u4E50"
+    name_en: BJL
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 440a2b310be74684852e09da88e0485e, type: 3}
+    spiName: {fileID: 21300000, guid: 860c671328594a0b8cd26521fda0fa46, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 910
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E07\u4EBA\u70B8\u91D1\u82B1"
+    name_en: WRZJH
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 7a7d2e5b2f8c4370b617f6870e6ba23b, type: 3}
+    spiName: {fileID: 21300000, guid: 44d2b688b95f44eea774afa5012a488a, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 1950
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6C99\u5DF4\u4F53\u80B2"
+    name_en: SBTY
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 68b96ef7733b4a87835cada9fbca864b, type: 3}
+    spiName: {fileID: 21300000, guid: 4059096f79d645a6b6091e125aa0a8a7, type: 3}
+    plat_type: 30
+    game_type: 5
+    game_code: 0
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: sport
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "CQ9\u4F53\u80B2"
+    name_en: "CQ9\u4F53\u80B2"
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 51a7e4ba684e4fe5bb6ee0d2af42fb0c, type: 3}
+    spiName: {fileID: 21300000, guid: e668950562044185b5f8225425e7e715, type: 3}
+    plat_type: 30
+    game_type: 5
+    game_code: 1
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: sport
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5C0F\u7231\u795E"
+    name_en: XAS
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 8f942e6f84944e35b297ce7c9bb44b3a, type: 3}
+    spiName: {fileID: 21300000, guid: 9c4e174389f94cc7a92e4a2a5f47c1ce, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5B59\u4E8C\u5A18"
+    name_en: SEN
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 29f627b95fce4528b93ed5dfc7a0aabc, type: 3}
+    spiName: {fileID: 21300000, guid: 465621a5f35f48de8b2daa75251b20ce, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u91D1\u9E21\u62A5\u559C"
+    name_en: DJ
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 789e022b54da414cb9958805dc08716a, type: 3}
+    spiName: {fileID: 21300000, guid: 5baad033e7cc440a91e931b532d01378, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8DF3\u8D77\u6765"
+    name_en: TQL
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: c9a0e85f07414afc9b245ccbaec035da, type: 3}
+    spiName: {fileID: 21300000, guid: 36bf6fc2b59c4f21ab5c34cea2fa57d3, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u8DF3\u66F4\u9AD8"
+    name_en: TGG
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 2c9f6ac1c0564f78946408736811548c, type: 3}
+    spiName: {fileID: 21300000, guid: d30eade2781f401f9eff50155789f1f6, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E94\u798F\u4E34\u95E8"
+    name_en: WFLM
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: bef578fa44774662a6a4125472f29efe, type: 3}
+    spiName: {fileID: 21300000, guid: 020c7fbff1e74ef4adcd941f944e8afe, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u6B66\u5723"
+    name_en: WS
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 0203c7a610994c93999eab1de87df258, type: 3}
+    spiName: {fileID: 21300000, guid: aad686b99bff4cc5b61a55458e97c5e2, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u5B99\u65AF"
+    name_en: ZS
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 8bb71d2425454701860140fc8eb0dd20, type: 3}
+    spiName: {fileID: 21300000, guid: 82aa66c3888a4067a02cd1312296ab17, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u4E00\u70AE\u6355\u9C7C"
+    name_en: YPBY
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 3148ed0afecb4830b13fc340d53e5fa2, type: 3}
+    spiName: {fileID: 21300000, guid: 5264bbc46717422c8e6e7715cd662a9f, type: 3}
+    plat_type: 0
+    game_type: 
+    game_code: 
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 0
+    RunStatusKey: slot
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin
+  - name_cn: "\u767E\u4EBA\u9AB0\u5B9D"
+    name_en: BRTB
+    id: 0
+    rankType: 0
+    spriteIcon: {fileID: 21300000, guid: 674846c1f4a84d2e89738aa8b296f450, type: 3}
+    spiName: {fileID: 21300000, guid: 58548d399ae747a09e4912ffa3dc53b4, type: 3}
+    plat_type: 38
+    game_type: 6
+    game_code: 1980
+    isOurGame: 0
+    isLuaGame: 0
+    isHttpGame: 1
+    RunStatusKey: cards
+    RunStatus: 0
+    action: jin
+    package: jin
+    schema: jin

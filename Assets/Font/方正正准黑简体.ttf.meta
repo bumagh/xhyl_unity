@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ec5938ef2cbf410cbfc1d70670544404
+timeCreated: 1690386864
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "\u65B9\u6B63\u6B63\u51C6\u9ED1\u7B80\u4F53"
+  fontNames:
+  - FZZhengHeiS-M-GB
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
