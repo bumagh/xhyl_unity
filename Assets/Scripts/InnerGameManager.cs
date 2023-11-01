@@ -185,42 +185,42 @@ public class InnerGameManager : MonoBehaviour
 		{
 			return;
 		}
-		isInit = true;
-		m_instance = this;
-		m_userName = string.Empty;
-		m_pwd = string.Empty;
-		m_ip = string.Empty;
-		m_language = "0";
-		m_downDir = Application.persistentDataPath + "/download/";
-		if (Application.platform == RuntimePlatform.WindowsEditor)
-		{
-			m_downDir = Path.GetFullPath(Application.dataPath + "/../download/").Replace('\\', '/');
-		}
-		if (!Directory.Exists(m_downDir))
-		{
-			Directory.CreateDirectory(m_downDir);
-		}
-		m_downloadTaskList = new List<InnerGameItem>();
-		int[] orders = ZH2_GVars.orders;
-		string str = string.Empty;
-		for (int i = 0; i < m_innerGameConfig.list.Count; i++)
-		{
-			InnerGame innerGame = m_innerGameConfig.list[orders[i]];
-			Debug.Log(i+" : "+m_innerGameConfig.list[orders[i]].name_cn);
-			InnerGameItem innerGameItem = CreateGameItem(innerGame);
-			innerGameItem.Init(innerGame);
-			str = str + "   " + innerGameItem.GetInnerGame().name_cn;
+		//isInit = true;
+		//m_instance = this;
+		//m_userName = string.Empty;
+		//m_pwd = string.Empty;
+		//m_ip = string.Empty;
+		//m_language = "0";
+		//m_downDir = Application.persistentDataPath + "/download/";
+		//if (Application.platform == RuntimePlatform.WindowsEditor)
+		//{
+		//	m_downDir = Path.GetFullPath(Application.dataPath + "/../download/").Replace('\\', '/');
+		//}
+		//if (!Directory.Exists(m_downDir))
+		//{
+		//	Directory.CreateDirectory(m_downDir);
+		//}
+		//m_downloadTaskList = new List<InnerGameItem>();
+		//int[] orders = ZH2_GVars.orders;
+		//string str = string.Empty;
+		//for (int i = 0; i < m_innerGameConfig.list.Count; i++)
+		//{
+		//	InnerGame innerGame = m_innerGameConfig.list[orders[i]];
+		//	Debug.Log(i+" : "+m_innerGameConfig.list[orders[i]].name_cn);
+		//	InnerGameItem innerGameItem = CreateGameItem(innerGame);
+		//	innerGameItem.Init(innerGame);
+		//	str = str + "   " + innerGameItem.GetInnerGame().name_cn;
 
-			innerGameItem.transform.Find("State").gameObject.SetActive(ZH2_GVars.IsObjectInTheArray(ZH2_GVars.ShowDown, innerGameItem.GetInnerGame().name_cn));
+		//	innerGameItem.transform.Find("State").gameObject.SetActive(ZH2_GVars.IsObjectInTheArray(ZH2_GVars.ShowDown, innerGameItem.GetInnerGame().name_cn));
 
-			if (innerGame.isOurGame)
-			{
-				innerGame.state = ((PlayerPrefs.GetInt(innerGame.package) == 1) ? InnerGameState.OK : InnerGameState.Default);
-				innerGameItem.ChangeState(innerGame.state);
-			}
-			m_itemList.Add(innerGameItem);
-		}
-		FindAllObjectsInScene.InitAllTL(m_xformGrid);
+		//	if (innerGame.isOurGame)
+		//	{
+		//		innerGame.state = ((PlayerPrefs.GetInt(innerGame.package) == 1) ? InnerGameState.OK : InnerGameState.Default);
+		//		innerGameItem.ChangeState(innerGame.state);
+		//	}
+		//	m_itemList.Add(innerGameItem);
+		//}
+		//FindAllObjectsInScene.InitAllTL(m_xformGrid);
 		//FindAllObjectsInScene.RefreshAllTxt();
 	}
 
